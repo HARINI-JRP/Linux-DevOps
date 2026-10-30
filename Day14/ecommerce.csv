@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Quantity,Unit_Price_INR,Discount_Rate,Payment_Method,City,Order_Status,Total_Amount_INR
+ORD1001,2026-10-01,Aarav,Wireless Mouse,Electronics,2,799,0.05,UPI,Chennai,Delivered,1518.1
+ORD1002,2026-10-02,Diya,Cotton T-Shirt,Fashion,3,499,0.1,Credit Card,Coimbatore,Delivered,1347.3
+ORD1003,2026-10-03,Rahul,Water Bottle,Home & Kitchen,1,349,0.0,Cash on Delivery,Madurai,Shipped,349.0
+ORD1004,2026-10-04,Meera,Bluetooth Headphones,Electronics,1,2499,0.15,UPI,Chennai,Delivered,2124.15
+ORD1005,2026-10-05,Kavin,Running Shoes,Fashion,2,1899,0.1,Debit Card,Salem,Processing,3418.2
+ORD1006,2026-10-06,Ananya,Notebook Set,Stationery,4,199,0.0,UPI,Tiruchirappalli,Delivered,796.0
+ORD1007,2026-10-07,Vikram,Coffee Maker,Home & Kitchen,1,3299,0.2,Credit Card,Chennai,Cancelled,2639.2
+ORD1008,2026-10-08,Ishita,USB-C Cable,Electronics,3,299,0.05,Cash on Delivery,Erode,Shipped,852.15
+ORD1009,2026-10-09,Arjun,Backpack,Fashion,1,1299,0.1,UPI,Coimbatore,Delivered,1169.1
+ORD1010,2026-10-10,Nila,Desk Lamp,Home & Kitchen,2,899,0.0,Debit Card,Madurai,Processing,1798.0
