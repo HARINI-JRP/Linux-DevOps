@@ -1,0 +1,121 @@
+ORDER_ID,ORDER_DATE,CUSTOMER_ID,CITY,PRODUCT,CATEGORY,BIBLE_BOOK,QUANTITY,UNIT_PRICE,REVENUE
+2085,2026-01-01,C020,Coimbatore,Prayer Journal,Prayer & Journals,Matthew,5,180,900
+2025,2026-01-02,C017,Bengaluru,Daily Devotional,Devotionals,Proverbs,4,250,1000
+2060,2026-01-05,C043,Bengaluru,Bible Stories for Beginners,Christian Books,Mark,5,280,1400
+2076,2026-01-15,C008,Coimbatore,Christian Living Book,Christian Books,Proverbs,3,350,1050
+2016,2026-01-17,C021,Madurai,Study Bible,Bibles,Mark,2,850,1700
+2077,2026-01-20,C007,Bengaluru,Bible Stories for Beginners,Christian Books,John,3,280,840
+2068,2026-01-22,C020,Coimbatore,Prayer Journal,Prayer & Journals,Genesis,2,180,360
+2044,2026-01-26,C042,Bengaluru,Christian Living Book,Christian Books,Genesis,1,350,350
+2111,2026-01-27,C023,Dindigul,Study Bible,Bibles,Psalms,5,850,4250
+2046,2026-01-31,C011,Madurai,365-Day Devotional,Devotionals,Genesis,4,400,1600
+2049,2026-02-01,C021,Chennai,Bible Stories for Beginners,Christian Books,Genesis,5,280,1400
+2101,2026-02-01,C014,Madurai,Gratitude Journal,Prayer & Journals,John,4,200,800
+2022,2026-02-02,C025,Madurai,Prayer Journal,Prayer & Journals,Revelation,5,180,900
+2081,2026-02-05,C043,Coimbatore,Gospel of John Workbook,Study Guides,Revelation,4,220,880
+2056,2026-02-07,C001,Madurai,Gratitude Journal,Prayer & Journals,Revelation,3,200,600
+2057,2026-02-07,C035,Dindigul,Bible Stories for Beginners,Christian Books,Ephesians,1,280,280
+2090,2026-02-07,C030,Madurai,Gratitude Journal,Prayer & Journals,Revelation,5,200,1000
+2117,2026-02-08,C038,Hyderabad,Prayer Journal,Prayer & Journals,Matthew,2,180,360
+2053,2026-02-11,C027,Hyderabad,Bible Stories for Beginners,Christian Books,Revelation,1,280,280
+2002,2026-02-14,C038,Madurai,Youth Study Bible,Bibles,Genesis,5,650,3250
+2007,2026-02-17,C025,Chennai,Gospel of John Workbook,Study Guides,Luke,1,220,220
+2072,2026-02-25,C025,Chennai,Bible Study Guide,Study Guides,Romans,2,300,600
+2021,2026-02-26,C010,Hyderabad,Youth Study Bible,Bibles,Proverbs,1,650,650
+2066,2026-02-27,C005,Hyderabad,Christian Living Book,Christian Books,Proverbs,1,350,350
+2115,2026-02-28,C011,Coimbatore,Daily Devotional,Devotionals,Psalms,5,250,1250
+2052,2026-03-03,C037,Dindigul,365-Day Devotional,Devotionals,Revelation,4,400,1600
+2118,2026-03-03,C037,Chennai,Youth Study Bible,Bibles,Luke,3,650,1950
+2113,2026-03-06,C031,Hyderabad,Daily Devotional,Devotionals,Psalms,2,250,500
+2106,2026-03-07,C040,Bengaluru,Daily Devotional,Devotionals,Genesis,4,250,1000
+2038,2026-03-09,C037,Bengaluru,365-Day Devotional,Devotionals,Romans,5,400,2000
+2018,2026-03-15,C017,Dindigul,Prayer Journal,Prayer & Journals,Matthew,4,180,720
+2089,2026-03-17,C002,Chennai,365-Day Devotional,Devotionals,Matthew,2,400,800
+2099,2026-03-19,C015,Madurai,Youth Study Bible,Bibles,Proverbs,2,650,1300
+2070,2026-03-21,C016,Dindigul,Christian Living Book,Christian Books,Proverbs,4,350,1400
+2065,2026-03-24,C029,Bengaluru,Daily Devotional,Devotionals,John,3,250,750
+2045,2026-03-27,C027,Madurai,Youth Study Bible,Bibles,Romans,2,650,1300
+2084,2026-03-31,C040,Bengaluru,Prayer Journal,Prayer & Journals,Mark,4,180,720
+2071,2026-04-02,C022,Madurai,Prayer Journal,Prayer & Journals,Matthew,1,180,180
+2051,2026-04-06,C005,Bengaluru,Christian Living Book,Christian Books,Psalms,1,350,350
+2048,2026-04-08,C019,Dindigul,Gratitude Journal,Prayer & Journals,Genesis,2,200,400
+2079,2026-04-08,C017,Chennai,Prayer Journal,Prayer & Journals,John,5,180,900
+2074,2026-04-09,C026,Coimbatore,365-Day Devotional,Devotionals,Mark,1,400,400
+2004,2026-04-12,C042,Hyderabad,Study Bible,Bibles,Ephesians,5,850,4250
+2013,2026-04-18,C043,Coimbatore,Gospel of John Workbook,Study Guides,Psalms,3,220,660
+2032,2026-04-19,C035,Hyderabad,Bible Stories for Beginners,Christian Books,Matthew,4,280,1120
+2109,2026-04-19,C030,Coimbatore,Prayer Journal,Prayer & Journals,Luke,3,180,540
+2003,2026-04-22,C015,Bengaluru,Study Bible,Bibles,Revelation,1,850,850
+2020,2026-04-23,C009,Bengaluru,Prayer Journal,Prayer & Journals,Romans,3,180,540
+2034,2026-04-26,C005,Coimbatore,Youth Study Bible,Bibles,Genesis,2,650,1300
+2035,2026-04-28,C038,Dindigul,Bible Stories for Beginners,Christian Books,Genesis,5,280,1400
+2036,2026-04-28,C005,Chennai,Youth Study Bible,Bibles,Luke,1,650,650
+2037,2026-05-02,C018,Hyderabad,Youth Study Bible,Bibles,Romans,5,650,3250
+2029,2026-05-03,C004,Dindigul,Gospel of John Workbook,Study Guides,Revelation,3,220,660
+2097,2026-05-03,C018,Madurai,Christian Living Book,Christian Books,Psalms,4,350,1400
+2112,2026-05-07,C013,Chennai,Study Bible,Bibles,Revelation,1,850,850
+2069,2026-05-08,C043,Chennai,Gospel of John Workbook,Study Guides,Luke,2,220,440
+2023,2026-05-09,C036,Chennai,Gratitude Journal,Prayer & Journals,Psalms,5,200,1000
+2019,2026-05-15,C038,Madurai,Christian Living Book,Christian Books,Revelation,5,350,1750
+2008,2026-05-16,C003,Hyderabad,Gospel of John Workbook,Study Guides,Romans,5,220,1100
+2061,2026-05-16,C008,Chennai,Youth Study Bible,Bibles,Ephesians,2,650,1300
+2098,2026-05-20,C022,Coimbatore,Bible Study Guide,Study Guides,Ephesians,2,300,600
+2001,2026-05-21,C016,Dindigul,Youth Study Bible,Bibles,Proverbs,1,650,650
+2064,2026-05-22,C003,Chennai,Youth Study Bible,Bibles,Luke,4,650,2600
+2062,2026-05-25,C039,Dindigul,Daily Devotional,Devotionals,Luke,3,250,750
+2011,2026-05-29,C006,Dindigul,Study Bible,Bibles,Psalms,2,850,1700
+2083,2026-06-01,C036,Dindigul,Gospel of John Workbook,Study Guides,Matthew,4,220,880
+2026,2026-06-02,C041,Bengaluru,Christian Living Book,Christian Books,Revelation,1,350,350
+2082,2026-06-03,C033,Coimbatore,Gospel of John Workbook,Study Guides,John,1,220,220
+2116,2026-06-09,C037,Hyderabad,Bible Stories for Beginners,Christian Books,John,1,280,280
+2054,2026-06-11,C017,Dindigul,Bible Stories for Beginners,Christian Books,Luke,5,280,1400
+2086,2026-06-14,C030,Madurai,Prayer Journal,Prayer & Journals,Romans,5,180,900
+2028,2026-06-15,C032,Chennai,Study Bible,Bibles,Psalms,5,850,4250
+2088,2026-06-21,C006,Dindigul,Bible Study Guide,Study Guides,Mark,5,300,1500
+2006,2026-06-24,C018,Dindigul,Daily Devotional,Devotionals,Matthew,4,250,1000
+2024,2026-06-24,C008,Coimbatore,Christian Living Book,Christian Books,John,3,350,1050
+2058,2026-06-28,C005,Dindigul,Bible Study Guide,Study Guides,Luke,2,300,600
+2075,2026-06-29,C042,Bengaluru,Youth Study Bible,Bibles,John,3,650,1950
+2067,2026-07-09,C038,Bengaluru,Christian Living Book,Christian Books,Proverbs,1,350,350
+2119,2026-07-09,C005,Bengaluru,Christian Living Book,Christian Books,Luke,4,350,1400
+2027,2026-07-11,C011,Bengaluru,365-Day Devotional,Devotionals,Ephesians,2,400,800
+2033,2026-07-11,C029,Bengaluru,Bible Study Guide,Study Guides,Romans,4,300,1200
+2009,2026-07-13,C006,Bengaluru,Christian Living Book,Christian Books,Mark,1,350,350
+2103,2026-07-19,C027,Bengaluru,Gospel of John Workbook,Study Guides,Ephesians,3,220,660
+2105,2026-07-19,C022,Hyderabad,Gratitude Journal,Prayer & Journals,John,1,200,200
+2055,2026-07-22,C009,Hyderabad,365-Day Devotional,Devotionals,Mark,3,400,1200
+2041,2026-07-26,C022,Chennai,Youth Study Bible,Bibles,Matthew,1,650,650
+2039,2026-07-28,C013,Chennai,365-Day Devotional,Devotionals,Psalms,4,400,1600
+2100,2026-08-01,C027,Coimbatore,365-Day Devotional,Devotionals,Ephesians,1,400,400
+2110,2026-08-04,C017,Chennai,Prayer Journal,Prayer & Journals,Romans,3,180,540
+2040,2026-08-05,C027,Madurai,Prayer Journal,Prayer & Journals,Genesis,3,180,540
+2092,2026-08-06,C015,Dindigul,Study Bible,Bibles,Ephesians,1,850,850
+2078,2026-08-12,C039,Bengaluru,Gospel of John Workbook,Study Guides,Psalms,3,220,660
+2059,2026-08-13,C035,Hyderabad,Bible Study Guide,Study Guides,Mark,2,300,600
+2005,2026-08-18,C038,Coimbatore,Prayer Journal,Prayer & Journals,Genesis,2,180,360
+2096,2026-08-19,C017,Dindigul,Daily Devotional,Devotionals,Mark,4,250,1000
+2012,2026-08-21,C041,Coimbatore,Prayer Journal,Prayer & Journals,Proverbs,3,180,540
+2047,2026-08-21,C019,Madurai,Prayer Journal,Prayer & Journals,Ephesians,3,180,540
+2073,2026-08-24,C023,Coimbatore,365-Day Devotional,Devotionals,Matthew,2,400,800
+2043,2026-08-25,C016,Chennai,Daily Devotional,Devotionals,Romans,3,250,750
+2108,2026-08-25,C012,Chennai,Prayer Journal,Prayer & Journals,Mark,2,180,360
+2114,2026-08-27,C045,Coimbatore,Bible Stories for Beginners,Christian Books,Luke,2,280,560
+2087,2026-08-31,C011,Hyderabad,365-Day Devotional,Devotionals,Psalms,5,400,2000
+2030,2026-09-06,C005,Bengaluru,Youth Study Bible,Bibles,Proverbs,1,650,650
+2104,2026-09-07,C015,Coimbatore,Bible Stories for Beginners,Christian Books,John,2,280,560
+2120,2026-09-08,C007,Madurai,Study Bible,Bibles,Luke,4,850,3400
+2091,2026-09-11,C026,Dindigul,365-Day Devotional,Devotionals,Proverbs,4,400,1600
+2050,2026-09-15,C034,Dindigul,Bible Stories for Beginners,Christian Books,Genesis,4,280,1120
+2063,2026-09-16,C032,Coimbatore,365-Day Devotional,Devotionals,Genesis,3,400,1200
+2095,2026-09-16,C028,Bengaluru,Gratitude Journal,Prayer & Journals,Romans,5,200,1000
+2094,2026-09-29,C036,Bengaluru,Daily Devotional,Devotionals,Luke,4,250,1000
+2014,2026-10-01,C016,Dindigul,Bible Stories for Beginners,Christian Books,Romans,2,280,560
+2042,2026-10-02,C029,Dindigul,365-Day Devotional,Devotionals,John,2,400,800
+2080,2026-10-03,C044,Hyderabad,Study Bible,Bibles,Matthew,5,850,4250
+2031,2026-10-09,C011,Coimbatore,Daily Devotional,Devotionals,Ephesians,4,250,1000
+2015,2026-10-13,C015,Hyderabad,Prayer Journal,Prayer & Journals,Luke,3,180,540
+2093,2026-10-13,C016,Chennai,Gratitude Journal,Prayer & Journals,Romans,1,200,200
+2107,2026-10-16,C043,Chennai,Prayer Journal,Prayer & Journals,Psalms,5,180,900
+2017,2026-10-18,C021,Dindigul,Youth Study Bible,Bibles,Romans,2,650,1300
+2102,2026-10-22,C025,Madurai,Bible Stories for Beginners,Christian Books,Genesis,1,280,280
+2010,2026-10-23,C013,Hyderabad,Bible Stories for Beginners,Christian Books,Psalms,3,280,840
