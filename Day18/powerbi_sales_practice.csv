@@ -1,0 +1,1001 @@
+ORDER_ID,ORDER_DATE,CUSTOMER_ID,CITY,PRODUCT,CATEGORY,QUANTITY,UNIT_PRICE,UNIT_COST
+ORD00162,2025-01-01,CUST0045,Salem,Bible Study Guide,Books,1,570.0,300
+ORD00536,2025-01-01,CUST0070,Dindigul,Book Stand,Accessories,1,495.0,290
+ORD00024,2025-01-04,CUST0153,Tirunelveli,Reading Lamp,Accessories,1,665.0,390
+ORD00319,2025-01-05,CUST0023,Coimbatore,Reading Lamp,Accessories,3,630.0,390
+ORD00164,2025-01-07,CUST0217,Dindigul,Bible Cover,Accessories,2,320.0,150
+ORD00252,2025-01-07,CUST0243,Dindigul,Study Bible,Bibles,2,892.5,510
+ORD00210,2025-01-08,CUST0155,Trichy,Devotional Book,Books,5,405.0,220
+ORD00510,2025-01-08,CUST0221,Madurai,Devotional Book,Books,1,405.0,220
+ORD00239,2025-01-09,CUST0047,Madurai,Pocket Bible,Bibles,1,367.5,190
+ORD00568,2025-01-09,CUST0154,Coimbatore,Bookmark Set,Stationery,5,99.0,35
+ORD00142,2025-01-10,CUST0088,Dindigul,Reading Lamp,Accessories,1,630.0,390
+ORD00099,2025-01-11,CUST0064,Trichy,Pocket Bible,Bibles,1,350.0,190
+ORD00207,2025-01-12,CUST0145,Salem,Highlighter Pack,Stationery,2,114.0,55
+ORD00018,2025-01-13,CUST0141,Salem,Study Bible,Bibles,2,892.5,510
+ORD00370,2025-01-13,CUST0163,Madurai,Reading Lamp,Accessories,2,770.0,390
+ORD00214,2025-01-14,CUST0252,Coimbatore,Notebook Set,Stationery,2,162.0,85
+ORD00115,2025-01-15,CUST0090,Madurai,Bible Study Guide,Books,1,600.0,300
+ORD00330,2025-01-15,CUST0098,Chennai,Study Bible,Bibles,2,850.0,510
+ORD00539,2025-01-15,CUST0223,Tirunelveli,Notebook Set,Stationery,4,162.0,85
+ORD00547,2025-01-15,CUST0065,Salem,Notebook Set,Stationery,1,180.0,85
+ORD00566,2025-01-15,CUST0209,Coimbatore,Bible Study Guide,Books,1,660.0,300
+ORD00277,2025-01-16,CUST0212,Trichy,Prayer Journal,Books,1,294.0,130
+ORD00038,2025-01-17,CUST0174,Chennai,Reading Lamp,Accessories,5,735.0,390
+ORD00117,2025-01-17,CUST0237,Madurai,Bookmark Set,Stationery,1,99.0,35
+ORD00128,2025-01-17,CUST0081,Tirunelveli,Large Print Bible,Bibles,3,1260.0,720
+ORD00213,2025-01-17,CUST0074,Erode,Study Bible,Bibles,4,850.0,510
+ORD00492,2025-01-18,CUST0179,Salem,Bible Cover,Accessories,1,304.0,150
+ORD00356,2025-01-19,CUST0181,Dindigul,Highlighter Pack,Stationery,1,114.0,55
+ORD00635,2025-01-20,CUST0187,Trichy,Large Print Bible,Bibles,2,1140.0,720
+ORD00041,2025-01-23,CUST0127,Salem,Bible Study Guide,Books,5,660.0,300
+ORD00067,2025-01-23,CUST0102,Tirunelveli,Large Print Bible,Bibles,2,1080.0,720
+ORD00325,2025-01-23,CUST0194,Erode,Notebook Set,Stationery,2,198.0,85
+ORD00406,2025-01-23,CUST0141,Chennai,Bookmark Set,Stationery,1,90.0,35
+ORD00406,2025-01-23,CUST0131,Chennai,Large Print Bible,Bibles,2,1200.0,720
+ORD00635,2025-01-26,CUST0168,Trichy,Notebook Set,Stationery,2,189.0,85
+ORD00370,2025-01-27,CUST0189,Tirunelveli,Prayer Journal,Books,1,294.0,130
+ORD00404,2025-01-28,CUST0014,Coimbatore,Bible Cover,Accessories,5,352.0,150
+ORD00641,2025-01-28,CUST0175,Erode,Devotional Book,Books,1,495.0,220
+ORD00048,2025-01-30,CUST0167,Chennai,Pocket Bible,Bibles,1,350.0,190
+ORD00180,2025-01-30,CUST0100,Dindigul,Highlighter Pack,Stationery,3,132.0,55
+ORD00298,2025-01-30,CUST0135,Trichy,Bible Cover,Accessories,1,304.0,150
+ORD00102,2025-01-31,CUST0028,Coimbatore,Book Stand,Accessories,1,522.5,290
+ORD00454,2025-01-31,CUST0075,Chennai,Reading Lamp,Accessories,3,700.0,390
+ORD00066,2025-02-02,CUST0173,Erode,Bookmark Set,Stationery,1,99.0,35
+ORD00279,2025-02-02,CUST0212,Coimbatore,Pocket Bible,Bibles,2,350.0,190
+ORD00430,2025-02-02,CUST0009,Trichy,Notebook Set,Stationery,4,162.0,85
+ORD00380,2025-02-03,CUST0112,Tirunelveli,Pocket Bible,Bibles,2,350.0,190
+ORD00468,2025-02-03,CUST0026,Dindigul,Prayer Journal,Books,3,266.0,130
+ORD00526,2025-02-03,CUST0031,Tirunelveli,Book Stand,Accessories,1,495.0,290
+ORD00056,2025-02-05,CUST0123,Salem,Notebook Set,Stationery,2,198.0,85
+ORD00075,2025-02-05,CUST0037,Salem,Pocket Bible,Bibles,2,315.0,190
+ORD00140,2025-02-06,CUST0247,Madurai,Bookmark Set,Stationery,2,94.5,35
+ORD00379,2025-02-06,CUST0076,Erode,Large Print Bible,Bibles,4,1320.0,720
+ORD00301,2025-02-07,CUST0104,Chennai,Large Print Bible,Bibles,3,1260.0,720
+ORD00551,2025-02-07,CUST0172,Erode,Bible Cover,Accessories,4,288.0,150
+ORD00010,2025-02-08,CUST0153,Coimbatore,Book Stand,Accessories,1,550.0,290
+ORD00472,2025-02-08,CUST0217,Erode,Notebook Set,Stationery,1,180.0,85
+ORD00112,2025-02-09,CUST0223,Dindigul,Notebook Set,Stationery,2,180.0,85
+ORD00158,2025-02-10,CUST0166,Chennai,Highlighter Pack,Stationery,2,114.0,55
+ORD00298,2025-02-10,CUST0185,Dindigul,Highlighter Pack,Stationery,1,114.0,55
+ORD00453,2025-02-11,CUST0183,Tirunelveli,Bible Cover,Accessories,5,336.0,150
+ORD00252,2025-02-13,CUST0203,Chennai,Large Print Bible,Bibles,1,1260.0,720
+ORD00534,2025-02-14,CUST0155,Tirunelveli,Reading Lamp,Accessories,1,770.0,390
+ORD00004,2025-02-15,CUST0171,Madurai,Large Print Bible,Bibles,2,1200.0,720
+ORD00042,2025-02-15,CUST0241,Chennai,Bible Study Guide,Books,4,630.0,300
+ORD00270,2025-02-15,CUST0226,Tirunelveli,Highlighter Pack,Stationery,1,126.0,55
+ORD00169,2025-02-16,CUST0253,Madurai,Bookmark Set,Stationery,2,81.0,35
+ORD00608,2025-02-16,CUST0089,Dindigul,Devotional Book,Books,3,427.5,220
+ORD00041,2025-02-17,CUST0166,Coimbatore,Highlighter Pack,Stationery,2,126.0,55
+ORD00065,2025-02-17,CUST0134,Dindigul,Bible Cover,Accessories,4,336.0,150
+ORD00019,2025-02-18,CUST0184,Salem,Book Stand,Accessories,1,605.0,290
+ORD00340,2025-02-18,CUST0140,Coimbatore,Large Print Bible,Bibles,1,1200.0,720
+ORD00391,2025-02-18,CUST0199,Erode,Bible Study Guide,Books,3,600.0,300
+ORD00565,2025-02-18,CUST0040,Chennai,Bible Study Guide,Books,2,660.0,300
+ORD00297,2025-02-19,CUST0150,Coimbatore,Highlighter Pack,Stationery,2,120.0,55
+ORD00084,2025-02-20,CUST0140,Tirunelveli,Study Bible,Bibles,1,935.0,510
+ORD00190,2025-02-20,CUST0076,Chennai,Bookmark Set,Stationery,2,85.5,35
+ORD00548,2025-02-20,CUST0012,Madurai,Bible Cover,Accessories,1,304.0,150
+ORD00267,2025-02-21,CUST0195,Dindigul,Bible Cover,Accessories,3,304.0,150
+ORD00114,2025-02-22,CUST0197,Dindigul,Large Print Bible,Bibles,4,1200.0,720
+ORD00275,2025-02-22,CUST0194,Chennai,Large Print Bible,Bibles,3,1140.0,720
+ORD00295,2025-02-22,CUST0160,Dindigul,Pocket Bible,Bibles,1,367.5,190
+ORD00342,2025-02-22,CUST0005,Coimbatore,Prayer Journal,Books,1,294.0,130
+ORD00406,2025-02-24,CUST0258,Dindigul,Book Stand,Accessories,4,577.5,290
+ORD00650,2025-02-24,CUST0037,Tirunelveli,Highlighter Pack,Stationery,3,126.0,55
+ORD00539,2025-02-25,CUST0217,Tirunelveli,Bible Cover,Accessories,3,304.0,150
+ORD00273,2025-02-27,CUST0201,Coimbatore,Pocket Bible,Bibles,1,332.5,190
+ORD00370,2025-02-27,CUST0204,Madurai,Book Stand,Accessories,2,605.0,290
+ORD00401,2025-02-27,CUST0135,Tirunelveli,Reading Lamp,Accessories,3,770.0,390
+ORD00615,2025-02-28,CUST0207,Dindigul,Notebook Set,Stationery,1,171.0,85
+ORD00251,2025-03-01,CUST0045,Erode,Pocket Bible,Bibles,2,332.5,190
+ORD00576,2025-03-01,CUST0212,Erode,Bookmark Set,Stationery,1,94.5,35
+ORD00288,2025-03-03,CUST0070,Coimbatore,Notebook Set,Stationery,1,198.0,85
+ORD00408,2025-03-03,CUST0260,Salem,Study Bible,Bibles,1,765.0,510
+ORD00322,2025-03-04,CUST0030,Chennai,Prayer Journal,Books,2,308.0,130
+ORD00413,2025-03-04,CUST0174,Coimbatore,Reading Lamp,Accessories,1,630.0,390
+ORD00142,2025-03-05,CUST0107,Dindigul,Reading Lamp,Accessories,3,735.0,390
+ORD00155,2025-03-05,CUST0050,Coimbatore,Notebook Set,Stationery,3,198.0,85
+ORD00592,2025-03-06,CUST0053,Madurai,Large Print Bible,Bibles,1,1200.0,720
+ORD00109,2025-03-07,CUST0059,Tirunelveli,Pocket Bible,Bibles,2,385.0,190
+ORD00275,2025-03-07,CUST0214,Tirunelveli,Pocket Bible,Bibles,2,385.0,190
+ORD00425,2025-03-07,CUST0209,Dindigul,Reading Lamp,Accessories,1,665.0,390
+ORD00047,2025-03-08,CUST0153,Salem,Reading Lamp,Accessories,2,665.0,390
+ORD00373,2025-03-08,CUST0102,Dindigul,Large Print Bible,Bibles,4,1140.0,720
+ORD00130,2025-03-09,CUST0141,Dindigul,Study Bible,Bibles,1,807.5,510
+ORD00361,2025-03-09,CUST0216,Dindigul,Study Bible,Bibles,2,935.0,510
+ORD00257,2025-03-10,CUST0051,Trichy,Reading Lamp,Accessories,2,700.0,390
+ORD00308,2025-03-10,CUST0023,Coimbatore,Reading Lamp,Accessories,2,700.0,390
+ORD00013,2025-03-11,CUST0211,Coimbatore,Devotional Book,Books,2,405.0,220
+ORD00033,2025-03-11,CUST0170,Coimbatore,Large Print Bible,Bibles,2,1140.0,720
+ORD00419,2025-03-12,CUST0256,Madurai,Reading Lamp,Accessories,1,700.0,390
+ORD00283,2025-03-13,CUST0213,Dindigul,Bible Study Guide,Books,2,570.0,300
+ORD00613,2025-03-13,CUST0056,Erode,Pocket Bible,Bibles,1,367.5,190
+ORD00240,2025-03-14,CUST0136,Trichy,Devotional Book,Books,2,472.5,220
+ORD00561,2025-03-14,CUST0196,Coimbatore,Large Print Bible,Bibles,1,1080.0,720
+ORD00516,2025-03-16,CUST0151,Dindigul,Devotional Book,Books,2,495.0,220
+ORD00056,2025-03-17,CUST0092,Salem,Reading Lamp,Accessories,1,630.0,390
+ORD00208,2025-03-18,CUST0070,Coimbatore,Highlighter Pack,Stationery,2,114.0,55
+ORD00481,2025-03-18,CUST0136,Dindigul,Large Print Bible,Bibles,1,1140.0,720
+ORD00020,2025-03-19,CUST0260,Chennai,Bible Study Guide,Books,1,540.0,300
+ORD00370,2025-03-20,CUST0129,Trichy,Book Stand,Accessories,2,577.5,290
+ORD00222,2025-03-21,CUST0050,Coimbatore,Large Print Bible,Bibles,1,1200.0,720
+ORD00058,2025-03-22,CUST0172,Dindigul,Large Print Bible,Bibles,3,1260.0,720
+ORD00477,2025-03-22,CUST0068,Coimbatore,Highlighter Pack,Stationery,3,132.0,55
+ORD00239,2025-03-23,CUST0052,Erode,Large Print Bible,Bibles,1,1200.0,720
+ORD00142,2025-03-24,CUST0078,Trichy,Devotional Book,Books,1,495.0,220
+ORD00471,2025-03-24,CUST0149,Trichy,Pocket Bible,Bibles,2,350.0,190
+ORD00161,2025-03-25,CUST0123,Madurai,Study Bible,Bibles,2,850.0,510
+ORD00485,2025-03-25,CUST0060,Salem,Study Bible,Bibles,1,850.0,510
+ORD00381,2025-03-26,CUST0085,Chennai,Notebook Set,Stationery,2,180.0,85
+ORD00291,2025-03-27,CUST0210,Salem,Bible Cover,Accessories,1,304.0,150
+ORD00068,2025-03-28,CUST0157,Coimbatore,Prayer Journal,Books,2,308.0,130
+ORD00011,2025-03-29,CUST0241,Madurai,Bible Cover,Accessories,1,336.0,150
+ORD00116,2025-03-29,CUST0028,Trichy,Prayer Journal,Books,2,266.0,130
+ORD00328,2025-03-31,CUST0178,Coimbatore,Prayer Journal,Books,2,294.0,130
+ORD00398,2025-03-31,CUST0204,Dindigul,Bookmark Set,Stationery,4,81.0,35
+ORD00525,2025-03-31,CUST0202,Trichy,Study Bible,Bibles,2,892.5,510
+ORD00448,2025-04-01,CUST0055,Trichy,Bible Study Guide,Books,2,600.0,300
+ORD00022,2025-04-02,CUST0107,Madurai,Book Stand,Accessories,1,577.5,290
+ORD00453,2025-04-02,CUST0158,Dindigul,Highlighter Pack,Stationery,2,114.0,55
+ORD00474,2025-04-02,CUST0102,Salem,Large Print Bible,Bibles,2,1140.0,720
+ORD00150,2025-04-03,CUST0143,Dindigul,Prayer Journal,Books,2,252.0,130
+ORD00223,2025-04-03,CUST0072,Chennai,Highlighter Pack,Stationery,2,108.0,55
+ORD00303,2025-04-03,CUST0168,Erode,Bible Cover,Accessories,2,304.0,150
+ORD00558,2025-04-04,CUST0199,Madurai,Book Stand,Accessories,2,550.0,290
+ORD00619,2025-04-04,CUST0156,Trichy,Bible Cover,Accessories,2,288.0,150
+ORD00455,2025-04-05,CUST0260,Chennai,Pocket Bible,Bibles,3,332.5,190
+ORD00585,2025-04-05,CUST0205,Trichy,Prayer Journal,Books,1,280.0,130
+ORD00042,2025-04-06,CUST0175,Tirunelveli,Bookmark Set,Stationery,1,94.5,35
+ORD00382,2025-04-06,CUST0176,Madurai,Highlighter Pack,Stationery,4,120.0,55
+ORD00470,2025-04-06,CUST0184,Coimbatore,Book Stand,Accessories,1,495.0,290
+ORD00474,2025-04-07,CUST0053,Madurai,Reading Lamp,Accessories,3,665.0,390
+ORD00139,2025-04-08,CUST0211,Chennai,Highlighter Pack,Stationery,2,132.0,55
+ORD00190,2025-04-08,CUST0072,Tirunelveli,Reading Lamp,Accessories,1,735.0,390
+ORD00377,2025-04-09,CUST0103,Tirunelveli,Bookmark Set,Stationery,2,90.0,35
+ORD00548,2025-04-09,CUST0181,Madurai,Highlighter Pack,Stationery,2,120.0,55
+ORD00234,2025-04-11,CUST0069,Salem,Highlighter Pack,Stationery,1,126.0,55
+ORD00076,2025-04-13,CUST0110,Salem,Study Bible,Bibles,2,935.0,510
+ORD00211,2025-04-13,CUST0173,Tirunelveli,Bookmark Set,Stationery,1,94.5,35
+ORD00292,2025-04-13,CUST0036,Trichy,Book Stand,Accessories,1,522.5,290
+ORD00451,2025-04-13,CUST0052,Tirunelveli,Bible Study Guide,Books,5,600.0,300
+ORD00520,2025-04-14,CUST0020,Dindigul,Prayer Journal,Books,1,280.0,130
+ORD00095,2025-04-15,CUST0195,Coimbatore,Notebook Set,Stationery,1,180.0,85
+ORD00254,2025-04-15,CUST0153,Chennai,Reading Lamp,Accessories,1,735.0,390
+ORD00321,2025-04-16,CUST0189,Salem,Devotional Book,Books,1,405.0,220
+ORD00269,2025-04-17,CUST0080,Coimbatore,Reading Lamp,Accessories,3,630.0,390
+ORD00509,2025-04-17,CUST0073,Dindigul,Bookmark Set,Stationery,1,99.0,35
+ORD00393,2025-04-19,CUST0028,Coimbatore,Pocket Bible,Bibles,4,315.0,190
+ORD00444,2025-04-19,CUST0186,Tirunelveli,Notebook Set,Stationery,3,189.0,85
+ORD00626,2025-04-19,CUST0053,Chennai,Book Stand,Accessories,5,495.0,290
+ORD00641,2025-04-19,CUST0153,Trichy,Bookmark Set,Stationery,3,99.0,35
+ORD00129,2025-04-20,CUST0250,Trichy,Bookmark Set,Stationery,1,99.0,35
+ORD00139,2025-04-20,CUST0156,Chennai,Reading Lamp,Accessories,2,735.0,390
+ORD00498,2025-04-20,CUST0099,Coimbatore,Prayer Journal,Books,3,266.0,130
+ORD00020,2025-04-21,CUST0150,Erode,Pocket Bible,Bibles,2,350.0,190
+ORD00148,2025-04-22,CUST0221,Trichy,Bible Study Guide,Books,1,630.0,300
+ORD00169,2025-04-22,CUST0142,Coimbatore,Bible Cover,Accessories,1,288.0,150
+ORD00027,2025-04-23,CUST0068,Chennai,Bible Study Guide,Books,1,570.0,300
+ORD00099,2025-04-24,CUST0035,Chennai,Highlighter Pack,Stationery,1,120.0,55
+ORD00467,2025-04-24,CUST0232,Salem,Prayer Journal,Books,1,280.0,130
+ORD00539,2025-04-24,CUST0187,Coimbatore,Study Bible,Bibles,2,807.5,510
+ORD00185,2025-04-26,CUST0070,Erode,Reading Lamp,Accessories,2,770.0,390
+ORD00595,2025-04-26,CUST0247,Coimbatore,Study Bible,Bibles,2,850.0,510
+ORD00275,2025-04-27,CUST0188,Chennai,Reading Lamp,Accessories,2,770.0,390
+ORD00016,2025-04-28,CUST0053,Trichy,Pocket Bible,Bibles,1,350.0,190
+ORD00355,2025-04-28,CUST0229,Trichy,Reading Lamp,Accessories,3,630.0,390
+ORD00415,2025-04-28,CUST0011,Dindigul,Reading Lamp,Accessories,2,700.0,390
+ORD00100,2025-04-29,CUST0121,Madurai,Study Bible,Bibles,1,892.5,510
+ORD00146,2025-04-29,CUST0179,Salem,Bible Cover,Accessories,1,288.0,150
+ORD00395,2025-04-29,CUST0098,Salem,Highlighter Pack,Stationery,2,132.0,55
+ORD00427,2025-04-29,CUST0228,Erode,Large Print Bible,Bibles,3,1080.0,720
+ORD00031,2025-05-01,CUST0172,Erode,Notebook Set,Stationery,3,180.0,85
+ORD00093,2025-05-03,CUST0081,Salem,Devotional Book,Books,1,450.0,220
+ORD00147,2025-05-03,CUST0203,Erode,Pocket Bible,Bibles,2,315.0,190
+ORD00284,2025-05-03,CUST0253,Coimbatore,Reading Lamp,Accessories,2,630.0,390
+ORD00306,2025-05-04,CUST0252,Erode,Book Stand,Accessories,1,522.5,290
+ORD00548,2025-05-05,CUST0122,Tirunelveli,Book Stand,Accessories,2,550.0,290
+ORD00044,2025-05-06,CUST0237,Chennai,Prayer Journal,Books,4,280.0,130
+ORD00239,2025-05-06,CUST0218,Tirunelveli,Bible Study Guide,Books,3,630.0,300
+ORD00094,2025-05-07,CUST0059,Tirunelveli,Pocket Bible,Bibles,1,332.5,190
+ORD00358,2025-05-07,CUST0048,Trichy,Book Stand,Accessories,1,522.5,290
+ORD00604,2025-05-07,CUST0197,Dindigul,Prayer Journal,Books,4,266.0,130
+ORD00295,2025-05-08,CUST0214,Madurai,Highlighter Pack,Stationery,4,126.0,55
+ORD00531,2025-05-08,CUST0079,Salem,Reading Lamp,Accessories,4,630.0,390
+ORD00540,2025-05-11,CUST0048,Erode,Bookmark Set,Stationery,1,90.0,35
+ORD00146,2025-05-12,CUST0117,Salem,Large Print Bible,Bibles,3,1140.0,720
+ORD00203,2025-05-14,CUST0206,Dindigul,Study Bible,Bibles,1,807.5,510
+ORD00488,2025-05-14,CUST0110,Tirunelveli,Bible Cover,Accessories,1,336.0,150
+ORD00570,2025-05-14,CUST0031,Dindigul,Pocket Bible,Bibles,1,350.0,190
+ORD00190,2025-05-15,CUST0014,Salem,Notebook Set,Stationery,3,162.0,85
+ORD00301,2025-05-15,CUST0200,Erode,Bookmark Set,Stationery,3,94.5,35
+ORD00211,2025-05-16,CUST0019,Tirunelveli,Prayer Journal,Books,3,308.0,130
+ORD00368,2025-05-16,CUST0152,Trichy,Large Print Bible,Bibles,3,1140.0,720
+ORD00357,2025-05-17,CUST0061,Madurai,Book Stand,Accessories,1,605.0,290
+ORD00125,2025-05-18,CUST0141,Dindigul,Reading Lamp,Accessories,1,735.0,390
+ORD00511,2025-05-18,CUST0003,Chennai,Reading Lamp,Accessories,2,770.0,390
+ORD00431,2025-05-19,CUST0192,Erode,Bible Cover,Accessories,1,304.0,150
+ORD00006,2025-05-21,CUST0081,Erode,Book Stand,Accessories,2,495.0,290
+ORD00342,2025-05-21,CUST0243,Tirunelveli,Reading Lamp,Accessories,1,630.0,390
+ORD00430,2025-05-21,CUST0103,Trichy,Bible Cover,Accessories,1,336.0,150
+ORD00122,2025-05-22,CUST0118,Tirunelveli,Highlighter Pack,Stationery,2,126.0,55
+ORD00317,2025-05-22,CUST0070,Erode,Bible Study Guide,Books,2,570.0,300
+ORD00440,2025-05-22,CUST0212,Erode,Bible Study Guide,Books,2,570.0,300
+ORD00565,2025-05-23,CUST0060,Salem,Large Print Bible,Bibles,2,1080.0,720
+ORD00387,2025-05-24,CUST0127,Coimbatore,Highlighter Pack,Stationery,2,132.0,55
+ORD00433,2025-05-24,CUST0094,Salem,Prayer Journal,Books,1,294.0,130
+ORD00649,2025-05-26,CUST0016,Coimbatore,Bible Study Guide,Books,2,540.0,300
+ORD00272,2025-05-27,CUST0072,Trichy,Book Stand,Accessories,4,577.5,290
+ORD00055,2025-05-29,CUST0029,Trichy,Large Print Bible,Bibles,1,1260.0,720
+ORD00372,2025-05-29,CUST0244,Dindigul,Reading Lamp,Accessories,1,700.0,390
+ORD00483,2025-05-29,CUST0223,Coimbatore,Reading Lamp,Accessories,1,630.0,390
+ORD00017,2025-05-30,CUST0134,Erode,Bible Cover,Accessories,2,304.0,150
+ORD00064,2025-05-30,CUST0152,Trichy,Notebook Set,Stationery,5,180.0,85
+ORD00496,2025-05-30,CUST0184,Chennai,Prayer Journal,Books,2,308.0,130
+ORD00448,2025-05-31,CUST0047,Trichy,Study Bible,Bibles,1,935.0,510
+ORD00579,2025-05-31,CUST0227,Dindigul,Highlighter Pack,Stationery,4,132.0,55
+ORD00094,2025-06-01,CUST0128,Dindigul,Study Bible,Bibles,3,850.0,510
+ORD00136,2025-06-01,CUST0173,Coimbatore,Devotional Book,Books,1,472.5,220
+ORD00362,2025-06-01,CUST0146,Tirunelveli,Highlighter Pack,Stationery,3,108.0,55
+ORD00562,2025-06-03,CUST0217,Coimbatore,Study Bible,Bibles,1,807.5,510
+ORD00308,2025-06-04,CUST0223,Erode,Devotional Book,Books,2,427.5,220
+ORD00350,2025-06-05,CUST0202,Madurai,Large Print Bible,Bibles,4,1140.0,720
+ORD00643,2025-06-06,CUST0082,Erode,Bible Cover,Accessories,3,288.0,150
+ORD00508,2025-06-07,CUST0212,Erode,Notebook Set,Stationery,5,198.0,85
+ORD00005,2025-06-09,CUST0260,Dindigul,Bible Cover,Accessories,4,320.0,150
+ORD00142,2025-06-09,CUST0136,Dindigul,Prayer Journal,Books,1,280.0,130
+ORD00550,2025-06-09,CUST0168,Erode,Pocket Bible,Bibles,1,332.5,190
+ORD00059,2025-06-11,CUST0042,Madurai,Reading Lamp,Accessories,4,770.0,390
+ORD00379,2025-06-11,CUST0160,Dindigul,Devotional Book,Books,1,450.0,220
+ORD00107,2025-06-13,CUST0214,Tirunelveli,Prayer Journal,Books,1,252.0,130
+ORD00426,2025-06-13,CUST0207,Coimbatore,Bible Study Guide,Books,1,660.0,300
+ORD00138,2025-06-14,CUST0021,Madurai,Prayer Journal,Books,1,308.0,130
+ORD00599,2025-06-14,CUST0131,Chennai,Book Stand,Accessories,2,522.5,290
+ORD00205,2025-06-15,CUST0071,Salem,Highlighter Pack,Stationery,2,126.0,55
+ORD00292,2025-06-15,CUST0091,Tirunelveli,Study Bible,Bibles,1,807.5,510
+ORD00471,2025-06-15,CUST0013,Tirunelveli,Study Bible,Bibles,2,850.0,510
+ORD00380,2025-06-16,CUST0182,Trichy,Highlighter Pack,Stationery,2,120.0,55
+ORD00470,2025-06-16,CUST0132,Madurai,Notebook Set,Stationery,3,180.0,85
+ORD00445,2025-06-18,CUST0032,Erode,Study Bible,Bibles,1,892.5,510
+ORD00585,2025-06-19,CUST0200,Madurai,Pocket Bible,Bibles,5,385.0,190
+ORD00631,2025-06-19,CUST0072,Trichy,Bookmark Set,Stationery,2,94.5,35
+ORD00377,2025-06-20,CUST0081,Salem,Notebook Set,Stationery,2,198.0,85
+ORD00417,2025-06-20,CUST0249,Tirunelveli,Study Bible,Bibles,4,807.5,510
+ORD00424,2025-06-20,CUST0253,Erode,Pocket Bible,Bibles,2,367.5,190
+ORD00628,2025-06-20,CUST0023,Erode,Study Bible,Bibles,3,850.0,510
+ORD00091,2025-06-21,CUST0172,Tirunelveli,Study Bible,Bibles,1,850.0,510
+ORD00283,2025-06-21,CUST0062,Erode,Bible Study Guide,Books,2,540.0,300
+ORD00379,2025-06-22,CUST0085,Tirunelveli,Study Bible,Bibles,1,892.5,510
+ORD00591,2025-06-22,CUST0082,Tirunelveli,Study Bible,Bibles,2,807.5,510
+ORD00587,2025-06-23,CUST0027,Salem,Notebook Set,Stationery,2,198.0,85
+ORD00267,2025-06-25,CUST0117,Tirunelveli,Bookmark Set,Stationery,1,90.0,35
+ORD00640,2025-06-25,CUST0173,Chennai,Bible Study Guide,Books,4,570.0,300
+ORD00483,2025-06-26,CUST0038,Chennai,Reading Lamp,Accessories,2,770.0,390
+ORD00648,2025-06-26,CUST0026,Salem,Bible Study Guide,Books,2,540.0,300
+ORD00487,2025-06-27,CUST0072,Trichy,Book Stand,Accessories,2,522.5,290
+ORD00500,2025-06-27,CUST0049,Salem,Large Print Bible,Bibles,1,1260.0,720
+ORD00272,2025-06-28,CUST0027,Madurai,Notebook Set,Stationery,2,162.0,85
+ORD00428,2025-06-29,CUST0091,Chennai,Bible Study Guide,Books,3,540.0,300
+ORD00507,2025-06-29,CUST0225,Chennai,Bookmark Set,Stationery,5,81.0,35
+ORD00573,2025-06-29,CUST0035,Trichy,Reading Lamp,Accessories,1,700.0,390
+ORD00162,2025-06-30,CUST0015,Tirunelveli,Study Bible,Bibles,3,935.0,510
+ORD00486,2025-07-01,CUST0180,Dindigul,Devotional Book,Books,2,472.5,220
+ORD00593,2025-07-01,CUST0089,Madurai,Reading Lamp,Accessories,2,770.0,390
+ORD00606,2025-07-01,CUST0234,Erode,Bible Cover,Accessories,5,352.0,150
+ORD00644,2025-07-01,CUST0253,Tirunelveli,Prayer Journal,Books,2,252.0,130
+ORD00452,2025-07-02,CUST0036,Tirunelveli,Notebook Set,Stationery,1,180.0,85
+ORD00092,2025-07-03,CUST0146,Erode,Pocket Bible,Bibles,1,315.0,190
+ORD00110,2025-07-03,CUST0050,Madurai,Large Print Bible,Bibles,3,1260.0,720
+ORD00229,2025-07-03,CUST0024,Erode,Large Print Bible,Bibles,2,1080.0,720
+ORD00640,2025-07-05,CUST0085,Tirunelveli,Bible Study Guide,Books,1,570.0,300
+ORD00344,2025-07-07,CUST0046,Trichy,Bible Cover,Accessories,3,352.0,150
+ORD00053,2025-07-08,CUST0130,Tirunelveli,Highlighter Pack,Stationery,2,120.0,55
+ORD00114,2025-07-09,CUST0095,Salem,Large Print Bible,Bibles,1,1320.0,720
+ORD00197,2025-07-09,CUST0111,Tirunelveli,Devotional Book,Books,1,495.0,220
+ORD00380,2025-07-09,CUST0238,Chennai,Bible Cover,Accessories,3,336.0,150
+ORD00124,2025-07-12,CUST0202,Trichy,Bible Cover,Accessories,1,304.0,150
+ORD00469,2025-07-12,CUST0045,Coimbatore,Reading Lamp,Accessories,1,630.0,390
+ORD00573,2025-07-12,CUST0059,Erode,Study Bible,Bibles,1,807.5,510
+ORD00144,2025-07-14,CUST0019,Trichy,Highlighter Pack,Stationery,1,126.0,55
+ORD00164,2025-07-14,CUST0256,Tirunelveli,Devotional Book,Books,4,450.0,220
+ORD00299,2025-07-14,CUST0226,Erode,Reading Lamp,Accessories,3,630.0,390
+ORD00352,2025-07-14,CUST0114,Tirunelveli,Reading Lamp,Accessories,1,770.0,390
+ORD00115,2025-07-15,CUST0009,Trichy,Notebook Set,Stationery,1,162.0,85
+ORD00273,2025-07-15,CUST0148,Tirunelveli,Bible Cover,Accessories,1,304.0,150
+ORD00307,2025-07-15,CUST0200,Coimbatore,Bible Study Guide,Books,1,630.0,300
+ORD00029,2025-07-16,CUST0126,Salem,Devotional Book,Books,1,427.5,220
+ORD00002,2025-07-18,CUST0061,Chennai,Bible Study Guide,Books,1,600.0,300
+ORD00118,2025-07-18,CUST0093,Chennai,Prayer Journal,Books,2,280.0,130
+ORD00377,2025-07-18,CUST0226,Tirunelveli,Bible Study Guide,Books,1,630.0,300
+ORD00199,2025-07-21,CUST0151,Tirunelveli,Bookmark Set,Stationery,2,99.0,35
+ORD00461,2025-07-22,CUST0220,Erode,Book Stand,Accessories,1,605.0,290
+ORD00472,2025-07-23,CUST0049,Trichy,Book Stand,Accessories,1,495.0,290
+ORD00607,2025-07-24,CUST0093,Chennai,Highlighter Pack,Stationery,1,132.0,55
+ORD00643,2025-07-26,CUST0076,Salem,Bible Cover,Accessories,5,336.0,150
+ORD00136,2025-07-27,CUST0155,Madurai,Bible Cover,Accessories,5,336.0,150
+ORD00636,2025-07-27,CUST0227,Trichy,Bookmark Set,Stationery,1,90.0,35
+ORD00560,2025-07-28,CUST0133,Tirunelveli,Notebook Set,Stationery,3,171.0,85
+ORD00646,2025-07-30,CUST0005,Salem,Large Print Bible,Bibles,1,1140.0,720
+ORD00493,2025-08-01,CUST0170,Trichy,Notebook Set,Stationery,1,189.0,85
+ORD00592,2025-08-04,CUST0177,Chennai,Bible Study Guide,Books,2,570.0,300
+ORD00645,2025-08-04,CUST0110,Erode,Bible Study Guide,Books,2,540.0,300
+ORD00190,2025-08-05,CUST0041,Salem,Highlighter Pack,Stationery,5,114.0,55
+ORD00195,2025-08-05,CUST0061,Tirunelveli,Highlighter Pack,Stationery,4,108.0,55
+ORD00198,2025-08-05,CUST0065,Chennai,Bible Cover,Accessories,4,304.0,150
+ORD00423,2025-08-05,CUST0073,Madurai,Bible Study Guide,Books,3,600.0,300
+ORD00536,2025-08-05,CUST0235,Madurai,Bookmark Set,Stationery,1,81.0,35
+ORD00581,2025-08-05,CUST0162,Trichy,Pocket Bible,Bibles,1,315.0,190
+ORD00096,2025-08-07,CUST0160,Dindigul,Bible Study Guide,Books,5,600.0,300
+ORD00282,2025-08-08,CUST0226,Erode,Bible Cover,Accessories,1,304.0,150
+ORD00323,2025-08-08,CUST0012,Salem,Notebook Set,Stationery,1,171.0,85
+ORD00350,2025-08-08,CUST0249,Trichy,Notebook Set,Stationery,1,171.0,85
+ORD00441,2025-08-09,CUST0232,Trichy,Large Print Bible,Bibles,2,1320.0,720
+ORD00538,2025-08-10,CUST0155,Madurai,Bible Cover,Accessories,1,320.0,150
+ORD00625,2025-08-10,CUST0233,Madurai,Bible Cover,Accessories,4,304.0,150
+ORD00058,2025-08-11,CUST0072,Salem,Pocket Bible,Bibles,2,385.0,190
+ORD00614,2025-08-11,CUST0063,Coimbatore,Large Print Bible,Bibles,1,1320.0,720
+ORD00021,2025-08-13,CUST0245,Chennai,Study Bible,Bibles,1,935.0,510
+ORD00333,2025-08-13,CUST0029,Trichy,Book Stand,Accessories,1,605.0,290
+ORD00303,2025-08-14,CUST0081,Madurai,Book Stand,Accessories,1,550.0,290
+ORD00231,2025-08-15,CUST0106,Salem,Bible Study Guide,Books,3,570.0,300
+ORD00003,2025-08-16,CUST0175,Dindigul,Bookmark Set,Stationery,2,81.0,35
+ORD00205,2025-08-16,CUST0236,Dindigul,Pocket Bible,Bibles,3,367.5,190
+ORD00143,2025-08-17,CUST0053,Coimbatore,Study Bible,Bibles,3,807.5,510
+ORD00466,2025-08-17,CUST0170,Tirunelveli,Book Stand,Accessories,1,495.0,290
+ORD00028,2025-08-18,CUST0002,Madurai,Highlighter Pack,Stationery,2,126.0,55
+ORD00029,2025-08-18,CUST0164,Coimbatore,Devotional Book,Books,5,450.0,220
+ORD00499,2025-08-18,CUST0133,Dindigul,Large Print Bible,Bibles,1,1320.0,720
+ORD00239,2025-08-20,CUST0027,Coimbatore,Prayer Journal,Books,1,308.0,130
+ORD00308,2025-08-20,CUST0042,Chennai,Highlighter Pack,Stationery,2,114.0,55
+ORD00440,2025-08-20,CUST0014,Salem,Notebook Set,Stationery,3,198.0,85
+ORD00532,2025-08-20,CUST0228,Chennai,Devotional Book,Books,1,495.0,220
+ORD00093,2025-08-21,CUST0223,Coimbatore,Large Print Bible,Bibles,1,1200.0,720
+ORD00567,2025-08-21,CUST0032,Erode,Bookmark Set,Stationery,1,99.0,35
+ORD00617,2025-08-21,CUST0006,Erode,Book Stand,Accessories,4,495.0,290
+ORD00522,2025-08-22,CUST0002,Chennai,Large Print Bible,Bibles,2,1080.0,720
+ORD00103,2025-08-23,CUST0139,Trichy,Bible Cover,Accessories,2,352.0,150
+ORD00113,2025-08-24,CUST0167,Trichy,Bible Study Guide,Books,2,600.0,300
+ORD00324,2025-08-24,CUST0212,Dindigul,Pocket Bible,Bibles,1,332.5,190
+ORD00388,2025-08-24,CUST0198,Madurai,Highlighter Pack,Stationery,2,108.0,55
+ORD00425,2025-08-24,CUST0170,Coimbatore,Prayer Journal,Books,1,252.0,130
+ORD00622,2025-08-24,CUST0181,Trichy,Large Print Bible,Bibles,3,1200.0,720
+ORD00415,2025-08-26,CUST0095,Madurai,Bookmark Set,Stationery,2,94.5,35
+ORD00533,2025-08-26,CUST0172,Erode,Pocket Bible,Bibles,1,315.0,190
+ORD00518,2025-08-27,CUST0014,Trichy,Bible Cover,Accessories,1,304.0,150
+ORD00258,2025-08-29,CUST0041,Trichy,Prayer Journal,Books,3,266.0,130
+ORD00483,2025-08-29,CUST0182,Chennai,Large Print Bible,Bibles,1,1200.0,720
+ORD00106,2025-08-30,CUST0075,Salem,Bookmark Set,Stationery,4,85.5,35
+ORD00197,2025-08-30,CUST0061,Coimbatore,Highlighter Pack,Stationery,1,132.0,55
+ORD00458,2025-08-30,CUST0137,Dindigul,Notebook Set,Stationery,1,189.0,85
+ORD00497,2025-08-30,CUST0093,Chennai,Book Stand,Accessories,3,550.0,290
+ORD00313,2025-09-02,CUST0060,Madurai,Large Print Bible,Bibles,1,1080.0,720
+ORD00430,2025-09-02,CUST0235,Coimbatore,Notebook Set,Stationery,1,162.0,85
+ORD00060,2025-09-03,CUST0124,Coimbatore,Study Bible,Bibles,4,850.0,510
+ORD00585,2025-09-04,CUST0214,Madurai,Highlighter Pack,Stationery,1,120.0,55
+ORD00478,2025-09-05,CUST0063,Salem,Bookmark Set,Stationery,2,90.0,35
+ORD00518,2025-09-05,CUST0035,Coimbatore,Notebook Set,Stationery,3,198.0,85
+ORD00603,2025-09-05,CUST0100,Dindigul,Bookmark Set,Stationery,2,94.5,35
+ORD00468,2025-09-07,CUST0075,Erode,Highlighter Pack,Stationery,3,126.0,55
+ORD00529,2025-09-07,CUST0090,Madurai,Pocket Bible,Bibles,2,332.5,190
+ORD00544,2025-09-08,CUST0211,Madurai,Highlighter Pack,Stationery,1,114.0,55
+ORD00089,2025-09-09,CUST0143,Tirunelveli,Reading Lamp,Accessories,2,700.0,390
+ORD00155,2025-09-09,CUST0004,Erode,Bible Cover,Accessories,3,352.0,150
+ORD00076,2025-09-10,CUST0043,Salem,Bible Cover,Accessories,3,320.0,150
+ORD00227,2025-09-10,CUST0224,Salem,Highlighter Pack,Stationery,1,120.0,55
+ORD00336,2025-09-11,CUST0223,Trichy,Notebook Set,Stationery,3,171.0,85
+ORD00472,2025-09-11,CUST0178,Madurai,Reading Lamp,Accessories,1,665.0,390
+ORD00122,2025-09-12,CUST0214,Trichy,Bible Study Guide,Books,4,540.0,300
+ORD00150,2025-09-13,CUST0165,Trichy,Bookmark Set,Stationery,1,85.5,35
+ORD00010,2025-09-19,CUST0239,Salem,Devotional Book,Books,2,472.5,220
+ORD00309,2025-09-19,CUST0047,Trichy,Bible Cover,Accessories,4,336.0,150
+ORD00228,2025-09-22,CUST0114,Tirunelveli,Highlighter Pack,Stationery,1,108.0,55
+ORD00644,2025-09-22,CUST0244,Coimbatore,Bookmark Set,Stationery,2,94.5,35
+ORD00167,2025-09-23,CUST0030,Madurai,Bookmark Set,Stationery,3,81.0,35
+ORD00179,2025-09-24,CUST0016,Erode,Reading Lamp,Accessories,1,700.0,390
+ORD00108,2025-09-25,CUST0038,Dindigul,Study Bible,Bibles,1,850.0,510
+ORD00369,2025-09-25,CUST0121,Chennai,Bookmark Set,Stationery,3,81.0,35
+ORD00556,2025-09-25,CUST0176,Chennai,Bookmark Set,Stationery,2,99.0,35
+ORD00502,2025-09-26,CUST0161,Erode,Highlighter Pack,Stationery,1,108.0,55
+ORD00555,2025-09-27,CUST0188,Tirunelveli,Large Print Bible,Bibles,1,1200.0,720
+ORD00393,2025-09-28,CUST0249,Tirunelveli,Bookmark Set,Stationery,4,94.5,35
+ORD00216,2025-09-29,CUST0214,Chennai,Study Bible,Bibles,1,935.0,510
+ORD00146,2025-09-30,CUST0037,Chennai,Bible Cover,Accessories,2,304.0,150
+ORD00085,2025-10-01,CUST0218,Coimbatore,Book Stand,Accessories,4,605.0,290
+ORD00155,2025-10-01,CUST0054,Chennai,Notebook Set,Stationery,3,198.0,85
+ORD00294,2025-10-01,CUST0083,Salem,Notebook Set,Stationery,2,189.0,85
+ORD00546,2025-10-02,CUST0223,Chennai,Bible Study Guide,Books,2,630.0,300
+ORD00483,2025-10-03,CUST0176,Dindigul,Notebook Set,Stationery,2,171.0,85
+ORD00638,2025-10-04,CUST0071,Erode,Reading Lamp,Accessories,1,770.0,390
+ORD00048,2025-10-05,CUST0039,Salem,Bible Study Guide,Books,4,630.0,300
+ORD00055,2025-10-05,CUST0239,Chennai,Prayer Journal,Books,1,308.0,130
+ORD00292,2025-10-06,CUST0138,Erode,Reading Lamp,Accessories,1,770.0,390
+ORD00395,2025-10-06,CUST0245,Erode,Pocket Bible,Bibles,1,367.5,190
+ORD00221,2025-10-07,CUST0059,Dindigul,Book Stand,Accessories,2,577.5,290
+ORD00410,2025-10-07,CUST0183,Tirunelveli,Bookmark Set,Stationery,3,99.0,35
+ORD00577,2025-10-07,CUST0109,Chennai,Notebook Set,Stationery,3,198.0,85
+ORD00129,2025-10-09,CUST0156,Coimbatore,Notebook Set,Stationery,2,198.0,85
+ORD00287,2025-10-09,CUST0229,Madurai,Devotional Book,Books,1,427.5,220
+ORD00451,2025-10-09,CUST0040,Salem,Bookmark Set,Stationery,2,85.5,35
+ORD00503,2025-10-09,CUST0094,Salem,Bookmark Set,Stationery,1,99.0,35
+ORD00064,2025-10-10,CUST0132,Erode,Notebook Set,Stationery,5,198.0,85
+ORD00064,2025-10-11,CUST0196,Erode,Highlighter Pack,Stationery,1,108.0,55
+ORD00087,2025-10-11,CUST0128,Salem,Book Stand,Accessories,3,522.5,290
+ORD00546,2025-10-11,CUST0164,Tirunelveli,Devotional Book,Books,1,450.0,220
+ORD00052,2025-10-12,CUST0260,Trichy,Pocket Bible,Bibles,1,350.0,190
+ORD00186,2025-10-12,CUST0224,Tirunelveli,Devotional Book,Books,2,472.5,220
+ORD00432,2025-10-12,CUST0130,Coimbatore,Devotional Book,Books,1,472.5,220
+ORD00572,2025-10-13,CUST0153,Trichy,Bookmark Set,Stationery,2,85.5,35
+ORD00639,2025-10-14,CUST0061,Madurai,Reading Lamp,Accessories,2,770.0,390
+ORD00370,2025-10-15,CUST0221,Salem,Notebook Set,Stationery,5,189.0,85
+ORD00612,2025-10-15,CUST0087,Dindigul,Prayer Journal,Books,2,308.0,130
+ORD00176,2025-10-16,CUST0003,Coimbatore,Large Print Bible,Bibles,1,1140.0,720
+ORD00507,2025-10-16,CUST0241,Salem,Bible Study Guide,Books,1,540.0,300
+ORD00117,2025-10-17,CUST0055,Tirunelveli,Large Print Bible,Bibles,2,1080.0,720
+ORD00258,2025-10-18,CUST0099,Chennai,Large Print Bible,Bibles,2,1140.0,720
+ORD00259,2025-10-18,CUST0077,Dindigul,Notebook Set,Stationery,2,189.0,85
+ORD00588,2025-10-18,CUST0126,Madurai,Bookmark Set,Stationery,1,85.5,35
+ORD00029,2025-10-19,CUST0198,Chennai,Devotional Book,Books,3,405.0,220
+ORD00354,2025-10-19,CUST0180,Salem,Book Stand,Accessories,1,495.0,290
+ORD00611,2025-10-19,CUST0009,Madurai,Book Stand,Accessories,1,495.0,290
+ORD00187,2025-10-20,CUST0090,Madurai,Bible Study Guide,Books,4,660.0,300
+ORD00200,2025-10-20,CUST0018,Trichy,Bible Study Guide,Books,4,660.0,300
+ORD00503,2025-10-20,CUST0103,Coimbatore,Bookmark Set,Stationery,2,99.0,35
+ORD00096,2025-10-22,CUST0205,Dindigul,Large Print Bible,Bibles,3,1140.0,720
+ORD00129,2025-10-23,CUST0069,Chennai,Book Stand,Accessories,3,522.5,290
+ORD00450,2025-10-23,CUST0064,Tirunelveli,Devotional Book,Books,2,495.0,220
+ORD00172,2025-10-24,CUST0019,Salem,Book Stand,Accessories,5,550.0,290
+ORD00309,2025-10-24,CUST0045,Salem,Pocket Bible,Bibles,4,315.0,190
+ORD00138,2025-10-25,CUST0238,Coimbatore,Highlighter Pack,Stationery,1,132.0,55
+ORD00394,2025-10-25,CUST0215,Trichy,Bible Cover,Accessories,1,288.0,150
+ORD00268,2025-10-26,CUST0162,Erode,Reading Lamp,Accessories,5,665.0,390
+ORD00400,2025-10-26,CUST0229,Trichy,Bible Study Guide,Books,1,660.0,300
+ORD00227,2025-10-29,CUST0208,Trichy,Book Stand,Accessories,3,495.0,290
+ORD00464,2025-10-29,CUST0069,Madurai,Devotional Book,Books,1,450.0,220
+ORD00628,2025-10-29,CUST0028,Madurai,Highlighter Pack,Stationery,2,126.0,55
+ORD00641,2025-10-29,CUST0246,Trichy,Pocket Bible,Bibles,1,315.0,190
+ORD00266,2025-10-30,CUST0215,Erode,Bible Study Guide,Books,1,630.0,300
+ORD00347,2025-10-30,CUST0059,Tirunelveli,Devotional Book,Books,4,472.5,220
+ORD00322,2025-11-01,CUST0233,Tirunelveli,Devotional Book,Books,1,472.5,220
+ORD00383,2025-11-02,CUST0006,Madurai,Reading Lamp,Accessories,1,665.0,390
+ORD00561,2025-11-03,CUST0161,Trichy,Reading Lamp,Accessories,2,770.0,390
+ORD00153,2025-11-04,CUST0066,Salem,Book Stand,Accessories,1,577.5,290
+ORD00282,2025-11-04,CUST0032,Madurai,Bible Study Guide,Books,2,630.0,300
+ORD00125,2025-11-05,CUST0013,Erode,Reading Lamp,Accessories,5,770.0,390
+ORD00405,2025-11-06,CUST0190,Madurai,Pocket Bible,Bibles,2,367.5,190
+ORD00534,2025-11-06,CUST0204,Coimbatore,Highlighter Pack,Stationery,1,126.0,55
+ORD00461,2025-11-09,CUST0242,Chennai,Devotional Book,Books,1,405.0,220
+ORD00258,2025-11-10,CUST0119,Coimbatore,Highlighter Pack,Stationery,2,120.0,55
+ORD00599,2025-11-10,CUST0079,Dindigul,Highlighter Pack,Stationery,2,132.0,55
+ORD00268,2025-11-12,CUST0185,Tirunelveli,Book Stand,Accessories,2,550.0,290
+ORD00180,2025-11-13,CUST0062,Chennai,Pocket Bible,Bibles,2,315.0,190
+ORD00408,2025-11-13,CUST0246,Erode,Bible Study Guide,Books,4,540.0,300
+ORD00457,2025-11-13,CUST0148,Madurai,Bible Study Guide,Books,1,600.0,300
+ORD00231,2025-11-14,CUST0102,Madurai,Notebook Set,Stationery,3,171.0,85
+ORD00402,2025-11-14,CUST0067,Coimbatore,Large Print Bible,Bibles,2,1200.0,720
+ORD00511,2025-11-16,CUST0191,Tirunelveli,Pocket Bible,Bibles,1,367.5,190
+ORD00128,2025-11-18,CUST0154,Salem,Large Print Bible,Bibles,4,1320.0,720
+ORD00325,2025-11-18,CUST0150,Salem,Study Bible,Bibles,1,807.5,510
+ORD00353,2025-11-18,CUST0005,Salem,Reading Lamp,Accessories,2,700.0,390
+ORD00363,2025-11-18,CUST0112,Salem,Large Print Bible,Bibles,4,1260.0,720
+ORD00417,2025-11-18,CUST0062,Dindigul,Prayer Journal,Books,1,294.0,130
+ORD00590,2025-11-18,CUST0043,Coimbatore,Pocket Bible,Bibles,1,350.0,190
+ORD00617,2025-11-18,CUST0153,Coimbatore,Study Bible,Bibles,3,765.0,510
+ORD00497,2025-11-20,CUST0046,Madurai,Devotional Book,Books,2,405.0,220
+ORD00353,2025-11-21,CUST0076,Dindigul,Notebook Set,Stationery,1,162.0,85
+ORD00492,2025-11-21,CUST0179,Salem,Highlighter Pack,Stationery,2,126.0,55
+ORD00070,2025-11-22,CUST0061,Madurai,Bible Study Guide,Books,4,570.0,300
+ORD00368,2025-11-22,CUST0015,Dindigul,Notebook Set,Stationery,1,198.0,85
+ORD00354,2025-11-23,CUST0205,Madurai,Devotional Book,Books,2,450.0,220
+ORD00612,2025-11-23,CUST0113,Chennai,Highlighter Pack,Stationery,1,108.0,55
+ORD00209,2025-11-24,CUST0190,Dindigul,Bible Cover,Accessories,3,336.0,150
+ORD00278,2025-11-24,CUST0040,Dindigul,Bible Cover,Accessories,1,336.0,150
+ORD00063,2025-11-25,CUST0015,Chennai,Reading Lamp,Accessories,2,700.0,390
+ORD00108,2025-11-25,CUST0083,Dindigul,Pocket Bible,Bibles,1,350.0,190
+ORD00293,2025-11-25,CUST0031,Coimbatore,Book Stand,Accessories,2,550.0,290
+ORD00527,2025-11-25,CUST0043,Coimbatore,Pocket Bible,Bibles,4,332.5,190
+ORD00517,2025-11-26,CUST0197,Erode,Pocket Bible,Bibles,2,385.0,190
+ORD00163,2025-11-27,CUST0022,Coimbatore,Book Stand,Accessories,2,550.0,290
+ORD00378,2025-11-27,CUST0195,Coimbatore,Notebook Set,Stationery,1,180.0,85
+ORD00619,2025-11-27,CUST0129,Chennai,Large Print Bible,Bibles,1,1260.0,720
+ORD00007,2025-11-28,CUST0059,Dindigul,Pocket Bible,Bibles,1,385.0,190
+ORD00480,2025-11-28,CUST0141,Madurai,Bible Study Guide,Books,1,600.0,300
+ORD00465,2025-11-29,CUST0250,Chennai,Highlighter Pack,Stationery,1,120.0,55
+ORD00583,2025-11-29,CUST0067,Trichy,Notebook Set,Stationery,2,189.0,85
+ORD00488,2025-11-30,CUST0240,Salem,Prayer Journal,Books,1,280.0,130
+ORD00570,2025-11-30,CUST0037,Salem,Bible Study Guide,Books,1,540.0,300
+ORD00089,2025-12-02,CUST0234,Chennai,Pocket Bible,Bibles,3,350.0,190
+ORD00506,2025-12-02,CUST0060,Erode,Bookmark Set,Stationery,3,81.0,35
+ORD00628,2025-12-02,CUST0164,Madurai,Bible Study Guide,Books,4,570.0,300
+ORD00451,2025-12-04,CUST0172,Erode,Book Stand,Accessories,3,577.5,290
+ORD00460,2025-12-04,CUST0068,Trichy,Devotional Book,Books,5,495.0,220
+ORD00599,2025-12-04,CUST0200,Trichy,Bible Study Guide,Books,1,600.0,300
+ORD00081,2025-12-05,CUST0231,Dindigul,Devotional Book,Books,1,427.5,220
+ORD00113,2025-12-06,CUST0214,Salem,Highlighter Pack,Stationery,3,120.0,55
+ORD00370,2025-12-06,CUST0151,Trichy,Notebook Set,Stationery,4,180.0,85
+ORD00311,2025-12-08,CUST0206,Chennai,Bible Cover,Accessories,2,320.0,150
+ORD00002,2025-12-10,CUST0193,Salem,Study Bible,Bibles,2,765.0,510
+ORD00068,2025-12-10,CUST0193,Coimbatore,Devotional Book,Books,2,495.0,220
+ORD00277,2025-12-10,CUST0137,Coimbatore,Highlighter Pack,Stationery,2,120.0,55
+ORD00030,2025-12-11,CUST0254,Dindigul,Devotional Book,Books,2,472.5,220
+ORD00412,2025-12-12,CUST0167,Coimbatore,Prayer Journal,Books,3,294.0,130
+ORD00445,2025-12-12,CUST0069,Dindigul,Reading Lamp,Accessories,2,770.0,390
+ORD00564,2025-12-13,CUST0027,Madurai,Prayer Journal,Books,1,294.0,130
+ORD00360,2025-12-14,CUST0004,Madurai,Study Bible,Bibles,1,850.0,510
+ORD00182,2025-12-15,CUST0166,Chennai,Bookmark Set,Stationery,1,85.5,35
+ORD00287,2025-12-15,CUST0142,Chennai,Devotional Book,Books,1,450.0,220
+ORD00021,2025-12-19,CUST0211,Coimbatore,Bookmark Set,Stationery,2,90.0,35
+ORD00066,2025-12-19,CUST0031,Coimbatore,Bible Study Guide,Books,1,630.0,300
+ORD00320,2025-12-19,CUST0067,Coimbatore,Large Print Bible,Bibles,3,1140.0,720
+ORD00609,2025-12-19,CUST0013,Salem,Book Stand,Accessories,1,550.0,290
+ORD00136,2025-12-20,CUST0092,Dindigul,Prayer Journal,Books,2,280.0,130
+ORD00055,2025-12-21,CUST0051,Erode,Bible Study Guide,Books,3,660.0,300
+ORD00453,2025-12-21,CUST0132,Tirunelveli,Notebook Set,Stationery,1,162.0,85
+ORD00532,2025-12-21,CUST0146,Coimbatore,Prayer Journal,Books,1,266.0,130
+ORD00536,2025-12-22,CUST0133,Madurai,Bible Study Guide,Books,1,630.0,300
+ORD00230,2025-12-25,CUST0036,Chennai,Bible Cover,Accessories,3,288.0,150
+ORD00263,2025-12-25,CUST0056,Chennai,Pocket Bible,Bibles,1,315.0,190
+ORD00068,2025-12-29,CUST0077,Salem,Study Bible,Bibles,2,850.0,510
+ORD00274,2025-12-29,CUST0204,Coimbatore,Prayer Journal,Books,2,280.0,130
+ORD00232,2025-12-30,CUST0096,Erode,Reading Lamp,Accessories,3,735.0,390
+ORD00168,2026-01-01,CUST0028,Salem,Highlighter Pack,Stationery,3,114.0,55
+ORD00075,2026-01-02,CUST0163,Trichy,Highlighter Pack,Stationery,3,132.0,55
+ORD00216,2026-01-02,CUST0128,Coimbatore,Prayer Journal,Books,1,252.0,130
+ORD00082,2026-01-03,CUST0245,Madurai,Bible Study Guide,Books,1,540.0,300
+ORD00277,2026-01-04,CUST0053,Madurai,Study Bible,Bibles,4,892.5,510
+ORD00054,2026-01-05,CUST0112,Coimbatore,Highlighter Pack,Stationery,2,114.0,55
+ORD00161,2026-01-06,CUST0150,Tirunelveli,Study Bible,Bibles,2,807.5,510
+ORD00521,2026-01-06,CUST0115,Coimbatore,Highlighter Pack,Stationery,3,114.0,55
+ORD00592,2026-01-06,CUST0099,Coimbatore,Large Print Bible,Bibles,1,1320.0,720
+ORD00567,2026-01-07,CUST0148,Coimbatore,Bible Cover,Accessories,2,304.0,150
+ORD00413,2026-01-10,CUST0188,Chennai,Study Bible,Bibles,2,850.0,510
+ORD00544,2026-01-10,CUST0257,Salem,Prayer Journal,Books,1,308.0,130
+ORD00604,2026-01-11,CUST0095,Tirunelveli,Bible Study Guide,Books,3,630.0,300
+ORD00184,2026-01-12,CUST0007,Tirunelveli,Bible Cover,Accessories,3,336.0,150
+ORD00558,2026-01-12,CUST0184,Chennai,Bible Cover,Accessories,3,288.0,150
+ORD00240,2026-01-14,CUST0022,Trichy,Devotional Book,Books,1,450.0,220
+ORD00292,2026-01-14,CUST0081,Tirunelveli,Devotional Book,Books,4,427.5,220
+ORD00381,2026-01-15,CUST0228,Coimbatore,Large Print Bible,Bibles,1,1260.0,720
+ORD00423,2026-01-16,CUST0221,Dindigul,Bookmark Set,Stationery,5,90.0,35
+ORD00266,2026-01-17,CUST0260,Dindigul,Reading Lamp,Accessories,1,630.0,390
+ORD00374,2026-01-17,CUST0206,Salem,Devotional Book,Books,2,472.5,220
+ORD00425,2026-01-17,CUST0185,Trichy,Bookmark Set,Stationery,1,90.0,35
+ORD00058,2026-01-18,CUST0082,Coimbatore,Devotional Book,Books,3,495.0,220
+ORD00062,2026-01-18,CUST0248,Tirunelveli,Prayer Journal,Books,1,294.0,130
+ORD00260,2026-01-18,CUST0009,Dindigul,Book Stand,Accessories,1,577.5,290
+ORD00116,2026-01-19,CUST0163,Erode,Bookmark Set,Stationery,1,99.0,35
+ORD00226,2026-01-20,CUST0038,Tirunelveli,Study Bible,Bibles,3,807.5,510
+ORD00597,2026-01-21,CUST0023,Salem,Bible Study Guide,Books,2,540.0,300
+ORD00585,2026-01-22,CUST0115,Chennai,Pocket Bible,Bibles,1,367.5,190
+ORD00226,2026-01-23,CUST0135,Coimbatore,Book Stand,Accessories,1,577.5,290
+ORD00315,2026-01-23,CUST0151,Madurai,Notebook Set,Stationery,2,171.0,85
+ORD00003,2026-01-24,CUST0200,Salem,Devotional Book,Books,4,427.5,220
+ORD00405,2026-01-24,CUST0177,Madurai,Notebook Set,Stationery,2,198.0,85
+ORD00584,2026-01-24,CUST0126,Tirunelveli,Notebook Set,Stationery,1,171.0,85
+ORD00152,2026-01-25,CUST0125,Chennai,Bible Study Guide,Books,2,660.0,300
+ORD00013,2026-01-26,CUST0063,Trichy,Bible Cover,Accessories,1,320.0,150
+ORD00117,2026-01-26,CUST0198,Salem,Prayer Journal,Books,2,280.0,130
+ORD00324,2026-01-27,CUST0022,Coimbatore,Pocket Bible,Bibles,4,367.5,190
+ORD00620,2026-01-27,CUST0168,Madurai,Reading Lamp,Accessories,1,665.0,390
+ORD00154,2026-01-28,CUST0092,Chennai,Study Bible,Bibles,1,850.0,510
+ORD00434,2026-01-28,CUST0132,Coimbatore,Bookmark Set,Stationery,1,85.5,35
+ORD00461,2026-01-28,CUST0162,Erode,Pocket Bible,Bibles,4,315.0,190
+ORD00156,2026-01-31,CUST0254,Chennai,Pocket Bible,Bibles,3,367.5,190
+ORD00348,2026-01-31,CUST0096,Tirunelveli,Highlighter Pack,Stationery,4,126.0,55
+ORD00195,2026-02-01,CUST0255,Madurai,Bookmark Set,Stationery,1,99.0,35
+ORD00504,2026-02-01,CUST0243,Madurai,Reading Lamp,Accessories,2,665.0,390
+ORD00576,2026-02-01,CUST0061,Salem,Large Print Bible,Bibles,1,1320.0,720
+ORD00325,2026-02-03,CUST0185,Coimbatore,Devotional Book,Books,2,427.5,220
+ORD00345,2026-02-03,CUST0208,Madurai,Devotional Book,Books,2,405.0,220
+ORD00599,2026-02-03,CUST0011,Erode,Book Stand,Accessories,1,577.5,290
+ORD00430,2026-02-04,CUST0113,Tirunelveli,Bible Cover,Accessories,4,320.0,150
+ORD00582,2026-02-05,CUST0017,Madurai,Bible Study Guide,Books,1,660.0,300
+ORD00518,2026-02-07,CUST0235,Trichy,Book Stand,Accessories,2,495.0,290
+ORD00383,2026-02-08,CUST0055,Dindigul,Bookmark Set,Stationery,5,81.0,35
+ORD00551,2026-02-08,CUST0044,Salem,Study Bible,Bibles,1,935.0,510
+ORD00641,2026-02-08,CUST0163,Erode,Study Bible,Bibles,2,935.0,510
+ORD00120,2026-02-09,CUST0007,Madurai,Pocket Bible,Bibles,2,315.0,190
+ORD00318,2026-02-10,CUST0174,Trichy,Reading Lamp,Accessories,1,630.0,390
+ORD00144,2026-02-11,CUST0121,Coimbatore,Book Stand,Accessories,2,495.0,290
+ORD00246,2026-02-11,CUST0165,Salem,Bible Study Guide,Books,2,570.0,300
+ORD00571,2026-02-11,CUST0188,Coimbatore,Study Bible,Bibles,3,807.5,510
+ORD00102,2026-02-12,CUST0084,Chennai,Bookmark Set,Stationery,3,81.0,35
+ORD00269,2026-02-13,CUST0044,Erode,Reading Lamp,Accessories,3,770.0,390
+ORD00337,2026-02-13,CUST0143,Coimbatore,Notebook Set,Stationery,1,171.0,85
+ORD00371,2026-02-13,CUST0113,Madurai,Bookmark Set,Stationery,2,99.0,35
+ORD00488,2026-02-13,CUST0155,Tirunelveli,Notebook Set,Stationery,1,189.0,85
+ORD00250,2026-02-14,CUST0076,Chennai,Bible Study Guide,Books,2,630.0,300
+ORD00528,2026-02-17,CUST0143,Dindigul,Large Print Bible,Bibles,3,1080.0,720
+ORD00020,2026-02-18,CUST0117,Trichy,Book Stand,Accessories,3,522.5,290
+ORD00123,2026-02-18,CUST0127,Chennai,Large Print Bible,Bibles,1,1140.0,720
+ORD00131,2026-02-18,CUST0151,Chennai,Large Print Bible,Bibles,1,1320.0,720
+ORD00440,2026-02-18,CUST0245,Erode,Study Bible,Bibles,2,892.5,510
+ORD00589,2026-02-18,CUST0003,Salem,Bible Study Guide,Books,5,630.0,300
+ORD00398,2026-02-22,CUST0231,Erode,Large Print Bible,Bibles,3,1200.0,720
+ORD00371,2026-02-23,CUST0055,Madurai,Reading Lamp,Accessories,1,700.0,390
+ORD00568,2026-02-24,CUST0136,Salem,Pocket Bible,Bibles,1,332.5,190
+ORD00584,2026-02-24,CUST0235,Madurai,Prayer Journal,Books,5,280.0,130
+ORD00255,2026-02-26,CUST0137,Madurai,Devotional Book,Books,1,450.0,220
+ORD00360,2026-02-26,CUST0029,Trichy,Pocket Bible,Bibles,1,350.0,190
+ORD00141,2026-02-27,CUST0119,Coimbatore,Large Print Bible,Bibles,1,1080.0,720
+ORD00058,2026-02-28,CUST0154,Dindigul,Reading Lamp,Accessories,4,735.0,390
+ORD00422,2026-02-28,CUST0156,Tirunelveli,Notebook Set,Stationery,3,180.0,85
+ORD00048,2026-03-01,CUST0064,Tirunelveli,Bible Cover,Accessories,2,288.0,150
+ORD00180,2026-03-01,CUST0237,Madurai,Pocket Bible,Bibles,2,350.0,190
+ORD00098,2026-03-02,CUST0161,Erode,Book Stand,Accessories,3,577.5,290
+ORD00378,2026-03-02,CUST0030,Salem,Reading Lamp,Accessories,1,770.0,390
+ORD00454,2026-03-02,CUST0148,Madurai,Reading Lamp,Accessories,1,735.0,390
+ORD00156,2026-03-05,CUST0212,Trichy,Study Bible,Bibles,1,850.0,510
+ORD00557,2026-03-05,CUST0019,Dindigul,Reading Lamp,Accessories,1,770.0,390
+ORD00611,2026-03-05,CUST0071,Erode,Bookmark Set,Stationery,1,94.5,35
+ORD00154,2026-03-06,CUST0050,Madurai,Study Bible,Bibles,1,935.0,510
+ORD00504,2026-03-06,CUST0031,Madurai,Study Bible,Bibles,2,807.5,510
+ORD00602,2026-03-06,CUST0080,Erode,Book Stand,Accessories,1,605.0,290
+ORD00340,2026-03-07,CUST0191,Salem,Notebook Set,Stationery,3,180.0,85
+ORD00038,2026-03-09,CUST0104,Madurai,Book Stand,Accessories,2,577.5,290
+ORD00136,2026-03-09,CUST0245,Coimbatore,Large Print Bible,Bibles,1,1080.0,720
+ORD00217,2026-03-10,CUST0103,Salem,Devotional Book,Books,2,495.0,220
+ORD00284,2026-03-10,CUST0028,Coimbatore,Highlighter Pack,Stationery,4,132.0,55
+ORD00387,2026-03-10,CUST0038,Tirunelveli,Notebook Set,Stationery,1,171.0,85
+ORD00220,2026-03-11,CUST0117,Erode,Study Bible,Bibles,3,892.5,510
+ORD00115,2026-03-12,CUST0040,Chennai,Prayer Journal,Books,1,252.0,130
+ORD00639,2026-03-12,CUST0093,Tirunelveli,Book Stand,Accessories,4,605.0,290
+ORD00111,2026-03-13,CUST0252,Tirunelveli,Study Bible,Bibles,5,892.5,510
+ORD00107,2026-03-14,CUST0086,Madurai,Large Print Bible,Bibles,2,1260.0,720
+ORD00575,2026-03-14,CUST0005,Coimbatore,Notebook Set,Stationery,3,198.0,85
+ORD00624,2026-03-14,CUST0163,Salem,Reading Lamp,Accessories,2,700.0,390
+ORD00094,2026-03-16,CUST0049,Chennai,Reading Lamp,Accessories,1,665.0,390
+ORD00363,2026-03-18,CUST0217,Erode,Book Stand,Accessories,1,495.0,290
+ORD00446,2026-03-18,CUST0176,Trichy,Bible Cover,Accessories,1,352.0,150
+ORD00146,2026-03-20,CUST0134,Coimbatore,Prayer Journal,Books,1,308.0,130
+ORD00162,2026-03-22,CUST0233,Chennai,Bookmark Set,Stationery,1,90.0,35
+ORD00258,2026-03-22,CUST0172,Tirunelveli,Large Print Bible,Bibles,1,1140.0,720
+ORD00207,2026-03-23,CUST0255,Coimbatore,Notebook Set,Stationery,2,180.0,85
+ORD00140,2026-03-24,CUST0044,Madurai,Large Print Bible,Bibles,1,1260.0,720
+ORD00238,2026-03-25,CUST0260,Trichy,Bookmark Set,Stationery,1,90.0,35
+ORD00497,2026-03-25,CUST0063,Chennai,Devotional Book,Books,2,450.0,220
+ORD00121,2026-03-26,CUST0122,Trichy,Book Stand,Accessories,1,495.0,290
+ORD00198,2026-03-26,CUST0011,Erode,Bookmark Set,Stationery,3,90.0,35
+ORD00537,2026-03-26,CUST0082,Dindigul,Prayer Journal,Books,1,294.0,130
+ORD00647,2026-03-26,CUST0163,Erode,Notebook Set,Stationery,3,171.0,85
+ORD00426,2026-03-27,CUST0248,Tirunelveli,Bible Cover,Accessories,2,304.0,150
+ORD00120,2026-03-29,CUST0106,Tirunelveli,Prayer Journal,Books,1,308.0,130
+ORD00564,2026-03-30,CUST0051,Chennai,Bible Cover,Accessories,3,288.0,150
+ORD00642,2026-03-30,CUST0065,Madurai,Book Stand,Accessories,1,550.0,290
+ORD00232,2026-03-31,CUST0209,Salem,Highlighter Pack,Stationery,2,120.0,55
+ORD00626,2026-03-31,CUST0146,Tirunelveli,Pocket Bible,Bibles,1,332.5,190
+ORD00366,2026-04-02,CUST0048,Dindigul,Pocket Bible,Bibles,2,332.5,190
+ORD00610,2026-04-02,CUST0259,Coimbatore,Prayer Journal,Books,1,294.0,130
+ORD00618,2026-04-02,CUST0219,Madurai,Pocket Bible,Bibles,2,350.0,190
+ORD00081,2026-04-03,CUST0196,Salem,Highlighter Pack,Stationery,2,126.0,55
+ORD00613,2026-04-03,CUST0025,Trichy,Prayer Journal,Books,1,252.0,130
+ORD00306,2026-04-05,CUST0003,Tirunelveli,Study Bible,Bibles,3,765.0,510
+ORD00447,2026-04-05,CUST0011,Madurai,Pocket Bible,Bibles,2,350.0,190
+ORD00343,2026-04-06,CUST0134,Dindigul,Devotional Book,Books,2,405.0,220
+ORD00586,2026-04-06,CUST0097,Dindigul,Reading Lamp,Accessories,2,630.0,390
+ORD00106,2026-04-07,CUST0176,Coimbatore,Reading Lamp,Accessories,1,630.0,390
+ORD00039,2026-04-08,CUST0030,Dindigul,Bookmark Set,Stationery,1,94.5,35
+ORD00508,2026-04-09,CUST0124,Coimbatore,Reading Lamp,Accessories,1,630.0,390
+ORD00136,2026-04-10,CUST0213,Tirunelveli,Large Print Bible,Bibles,2,1080.0,720
+ORD00525,2026-04-10,CUST0241,Dindigul,Bookmark Set,Stationery,3,94.5,35
+ORD00605,2026-04-10,CUST0104,Tirunelveli,Book Stand,Accessories,2,522.5,290
+ORD00644,2026-04-10,CUST0138,Chennai,Prayer Journal,Books,1,294.0,130
+ORD00094,2026-04-11,CUST0109,Chennai,Book Stand,Accessories,1,495.0,290
+ORD00101,2026-04-11,CUST0076,Erode,Bookmark Set,Stationery,2,90.0,35
+ORD00111,2026-04-11,CUST0063,Salem,Book Stand,Accessories,2,522.5,290
+ORD00378,2026-04-11,CUST0135,Erode,Bible Cover,Accessories,1,288.0,150
+ORD00124,2026-04-14,CUST0236,Dindigul,Large Print Bible,Bibles,1,1140.0,720
+ORD00633,2026-04-14,CUST0089,Salem,Reading Lamp,Accessories,1,700.0,390
+ORD00080,2026-04-16,CUST0161,Erode,Reading Lamp,Accessories,1,630.0,390
+ORD00455,2026-04-16,CUST0230,Coimbatore,Book Stand,Accessories,3,495.0,290
+ORD00546,2026-04-16,CUST0176,Dindigul,Reading Lamp,Accessories,1,665.0,390
+ORD00550,2026-04-16,CUST0064,Erode,Highlighter Pack,Stationery,2,108.0,55
+ORD00601,2026-04-17,CUST0015,Tirunelveli,Bible Cover,Accessories,3,336.0,150
+ORD00175,2026-04-18,CUST0145,Dindigul,Pocket Bible,Bibles,1,367.5,190
+ORD00052,2026-04-21,CUST0128,Coimbatore,Pocket Bible,Bibles,1,385.0,190
+ORD00491,2026-04-21,CUST0094,Madurai,Bookmark Set,Stationery,1,85.5,35
+ORD00583,2026-04-21,CUST0130,Dindigul,Large Print Bible,Bibles,2,1080.0,720
+ORD00263,2026-04-22,CUST0189,Madurai,Reading Lamp,Accessories,1,665.0,390
+ORD00530,2026-04-22,CUST0041,Coimbatore,Bible Study Guide,Books,3,600.0,300
+ORD00238,2026-04-27,CUST0115,Madurai,Bible Cover,Accessories,2,336.0,150
+ORD00267,2026-04-27,CUST0084,Tirunelveli,Prayer Journal,Books,1,252.0,130
+ORD00423,2026-04-28,CUST0171,Erode,Pocket Bible,Bibles,3,367.5,190
+ORD00143,2026-04-29,CUST0241,Tirunelveli,Notebook Set,Stationery,1,180.0,85
+ORD00010,2026-04-30,CUST0091,Erode,Book Stand,Accessories,1,522.5,290
+ORD00174,2026-04-30,CUST0044,Salem,Book Stand,Accessories,2,605.0,290
+ORD00562,2026-04-30,CUST0028,Chennai,Devotional Book,Books,1,405.0,220
+ORD00069,2026-05-01,CUST0047,Coimbatore,Bookmark Set,Stationery,1,85.5,35
+ORD00136,2026-05-01,CUST0089,Chennai,Reading Lamp,Accessories,1,630.0,390
+ORD00161,2026-05-01,CUST0113,Madurai,Book Stand,Accessories,1,495.0,290
+ORD00269,2026-05-01,CUST0075,Erode,Devotional Book,Books,2,472.5,220
+ORD00356,2026-05-01,CUST0216,Tirunelveli,Reading Lamp,Accessories,2,665.0,390
+ORD00433,2026-05-01,CUST0012,Coimbatore,Pocket Bible,Bibles,3,332.5,190
+ORD00276,2026-05-02,CUST0191,Chennai,Book Stand,Accessories,2,495.0,290
+ORD00461,2026-05-02,CUST0133,Trichy,Reading Lamp,Accessories,2,665.0,390
+ORD00611,2026-05-02,CUST0080,Dindigul,Prayer Journal,Books,5,308.0,130
+ORD00058,2026-05-03,CUST0005,Madurai,Pocket Bible,Bibles,1,385.0,190
+ORD00460,2026-05-03,CUST0186,Coimbatore,Reading Lamp,Accessories,1,630.0,390
+ORD00307,2026-05-04,CUST0005,Erode,Highlighter Pack,Stationery,2,126.0,55
+ORD00157,2026-05-05,CUST0233,Dindigul,Bookmark Set,Stationery,1,85.5,35
+ORD00322,2026-05-06,CUST0091,Erode,Devotional Book,Books,1,427.5,220
+ORD00474,2026-05-07,CUST0229,Dindigul,Notebook Set,Stationery,2,180.0,85
+ORD00558,2026-05-07,CUST0249,Dindigul,Pocket Bible,Bibles,3,350.0,190
+ORD00573,2026-05-08,CUST0102,Tirunelveli,Reading Lamp,Accessories,1,665.0,390
+ORD00175,2026-05-09,CUST0113,Erode,Study Bible,Bibles,2,892.5,510
+ORD00230,2026-05-09,CUST0056,Dindigul,Large Print Bible,Bibles,2,1140.0,720
+ORD00355,2026-05-09,CUST0198,Madurai,Pocket Bible,Bibles,2,332.5,190
+ORD00391,2026-05-09,CUST0180,Coimbatore,Large Print Bible,Bibles,2,1140.0,720
+ORD00110,2026-05-10,CUST0122,Erode,Book Stand,Accessories,1,577.5,290
+ORD00184,2026-05-10,CUST0190,Tirunelveli,Bible Cover,Accessories,1,352.0,150
+ORD00251,2026-05-10,CUST0208,Salem,Reading Lamp,Accessories,2,700.0,390
+ORD00357,2026-05-10,CUST0244,Coimbatore,Highlighter Pack,Stationery,3,132.0,55
+ORD00537,2026-05-11,CUST0159,Dindigul,Reading Lamp,Accessories,1,700.0,390
+ORD00352,2026-05-12,CUST0025,Chennai,Bookmark Set,Stationery,2,99.0,35
+ORD00422,2026-05-12,CUST0175,Madurai,Study Bible,Bibles,2,850.0,510
+ORD00449,2026-05-12,CUST0151,Tirunelveli,Bookmark Set,Stationery,1,81.0,35
+ORD00483,2026-05-12,CUST0011,Tirunelveli,Prayer Journal,Books,3,294.0,130
+ORD00608,2026-05-13,CUST0228,Tirunelveli,Bookmark Set,Stationery,2,90.0,35
+ORD00118,2026-05-14,CUST0238,Dindigul,Bible Study Guide,Books,2,660.0,300
+ORD00159,2026-05-14,CUST0098,Salem,Book Stand,Accessories,2,605.0,290
+ORD00311,2026-05-14,CUST0185,Erode,Book Stand,Accessories,2,605.0,290
+ORD00494,2026-05-14,CUST0004,Madurai,Book Stand,Accessories,3,550.0,290
+ORD00540,2026-05-14,CUST0158,Chennai,Bible Cover,Accessories,1,352.0,150
+ORD00113,2026-05-15,CUST0252,Tirunelveli,Bible Cover,Accessories,1,336.0,150
+ORD00341,2026-05-15,CUST0091,Dindigul,Bookmark Set,Stationery,1,81.0,35
+ORD00020,2026-05-16,CUST0242,Chennai,Prayer Journal,Books,1,266.0,130
+ORD00172,2026-05-16,CUST0043,Chennai,Book Stand,Accessories,2,577.5,290
+ORD00189,2026-05-16,CUST0031,Chennai,Notebook Set,Stationery,1,198.0,85
+ORD00222,2026-05-16,CUST0243,Tirunelveli,Prayer Journal,Books,1,308.0,130
+ORD00399,2026-05-16,CUST0033,Salem,Large Print Bible,Bibles,5,1140.0,720
+ORD00569,2026-05-16,CUST0124,Tirunelveli,Prayer Journal,Books,1,294.0,130
+ORD00539,2026-05-17,CUST0132,Chennai,Large Print Bible,Bibles,2,1260.0,720
+ORD00150,2026-05-20,CUST0033,Madurai,Prayer Journal,Books,1,280.0,130
+ORD00275,2026-05-22,CUST0166,Salem,Bible Cover,Accessories,5,304.0,150
+ORD00396,2026-05-22,CUST0058,Trichy,Bookmark Set,Stationery,1,85.5,35
+ORD00540,2026-05-23,CUST0043,Salem,Bible Study Guide,Books,2,570.0,300
+ORD00031,2026-05-24,CUST0196,Erode,Bible Study Guide,Books,2,630.0,300
+ORD00181,2026-05-25,CUST0082,Chennai,Prayer Journal,Books,3,294.0,130
+ORD00097,2026-05-26,CUST0169,Chennai,Devotional Book,Books,4,427.5,220
+ORD00205,2026-05-26,CUST0121,Trichy,Bible Study Guide,Books,2,570.0,300
+ORD00641,2026-05-26,CUST0227,Chennai,Study Bible,Bibles,2,935.0,510
+ORD00155,2026-05-28,CUST0177,Chennai,Highlighter Pack,Stationery,2,132.0,55
+ORD00553,2026-05-28,CUST0253,Tirunelveli,Bookmark Set,Stationery,1,90.0,35
+ORD00573,2026-05-28,CUST0182,Coimbatore,Devotional Book,Books,2,427.5,220
+ORD00276,2026-05-29,CUST0211,Dindigul,Large Print Bible,Bibles,2,1140.0,720
+ORD00319,2026-05-30,CUST0061,Salem,Pocket Bible,Bibles,1,367.5,190
+ORD00585,2026-05-30,CUST0076,Coimbatore,Pocket Bible,Bibles,4,315.0,190
+ORD00121,2026-05-31,CUST0048,Tirunelveli,Reading Lamp,Accessories,2,770.0,390
+ORD00505,2026-05-31,CUST0174,Tirunelveli,Large Print Bible,Bibles,1,1140.0,720
+ORD00174,2026-06-01,CUST0064,Dindigul,Prayer Journal,Books,3,308.0,130
+ORD00308,2026-06-01,CUST0222,Dindigul,Devotional Book,Books,3,450.0,220
+ORD00079,2026-06-02,CUST0143,Salem,Pocket Bible,Bibles,2,332.5,190
+ORD00407,2026-06-02,CUST0064,Chennai,Devotional Book,Books,1,472.5,220
+ORD00481,2026-06-02,CUST0254,Madurai,Study Bible,Bibles,2,807.5,510
+ORD00501,2026-06-02,CUST0129,Chennai,Bible Study Guide,Books,1,600.0,300
+ORD00620,2026-06-02,CUST0221,Coimbatore,Reading Lamp,Accessories,2,735.0,390
+ORD00627,2026-06-08,CUST0082,Erode,Notebook Set,Stationery,2,189.0,85
+ORD00164,2026-06-10,CUST0016,Madurai,Large Print Bible,Bibles,2,1200.0,720
+ORD00002,2026-06-11,CUST0237,Erode,Highlighter Pack,Stationery,1,126.0,55
+ORD00123,2026-06-11,CUST0194,Chennai,Bible Study Guide,Books,1,570.0,300
+ORD00521,2026-06-11,CUST0229,Tirunelveli,Notebook Set,Stationery,4,180.0,85
+ORD00408,2026-06-12,CUST0243,Salem,Prayer Journal,Books,1,280.0,130
+ORD00465,2026-06-12,CUST0093,Chennai,Devotional Book,Books,1,495.0,220
+ORD00258,2026-06-14,CUST0193,Trichy,Bookmark Set,Stationery,2,81.0,35
+ORD00321,2026-06-14,CUST0224,Madurai,Bookmark Set,Stationery,3,90.0,35
+ORD00416,2026-06-14,CUST0010,Salem,Study Bible,Bibles,1,807.5,510
+ORD00463,2026-06-14,CUST0062,Trichy,Reading Lamp,Accessories,2,735.0,390
+ORD00622,2026-06-15,CUST0097,Erode,Large Print Bible,Bibles,3,1140.0,720
+ORD00140,2026-06-17,CUST0254,Dindigul,Pocket Bible,Bibles,1,315.0,190
+ORD00423,2026-06-17,CUST0191,Tirunelveli,Notebook Set,Stationery,1,171.0,85
+ORD00505,2026-06-17,CUST0239,Trichy,Bookmark Set,Stationery,2,81.0,35
+ORD00648,2026-06-17,CUST0255,Tirunelveli,Notebook Set,Stationery,2,189.0,85
+ORD00320,2026-06-18,CUST0012,Salem,Highlighter Pack,Stationery,4,108.0,55
+ORD00643,2026-06-18,CUST0012,Salem,Devotional Book,Books,1,427.5,220
+ORD00207,2026-06-20,CUST0184,Erode,Bible Study Guide,Books,1,600.0,300
+ORD00324,2026-06-20,CUST0134,Trichy,Pocket Bible,Bibles,2,385.0,190
+ORD00351,2026-06-20,CUST0089,Salem,Notebook Set,Stationery,3,198.0,85
+ORD00506,2026-06-21,CUST0069,Tirunelveli,Highlighter Pack,Stationery,2,132.0,55
+ORD00583,2026-06-21,CUST0015,Madurai,Bookmark Set,Stationery,2,85.5,35
+ORD00258,2026-06-22,CUST0255,Coimbatore,Large Print Bible,Bibles,2,1320.0,720
+ORD00255,2026-06-23,CUST0092,Erode,Bible Study Guide,Books,1,570.0,300
+ORD00558,2026-06-23,CUST0260,Chennai,Large Print Bible,Bibles,5,1080.0,720
+ORD00126,2026-06-24,CUST0241,Salem,Highlighter Pack,Stationery,2,132.0,55
+ORD00228,2026-06-24,CUST0143,Trichy,Large Print Bible,Bibles,2,1320.0,720
+ORD00258,2026-06-26,CUST0006,Coimbatore,Pocket Bible,Bibles,1,367.5,190
+ORD00306,2026-06-27,CUST0212,Chennai,Bible Study Guide,Books,1,630.0,300
+ORD00367,2026-06-27,CUST0120,Madurai,Notebook Set,Stationery,3,189.0,85
+ORD00001,2026-06-28,CUST0166,Tirunelveli,Devotional Book,Books,3,495.0,220
+ORD00034,2026-06-28,CUST0152,Erode,Pocket Bible,Bibles,4,350.0,190
+ORD00523,2026-06-28,CUST0100,Dindigul,Notebook Set,Stationery,1,162.0,85
+ORD00129,2026-06-30,CUST0066,Tirunelveli,Large Print Bible,Bibles,2,1080.0,720
+ORD00439,2026-06-30,CUST0190,Coimbatore,Large Print Bible,Bibles,3,1200.0,720
+ORD00058,2026-07-01,CUST0113,Erode,Study Bible,Bibles,2,850.0,510
+ORD00324,2026-07-01,CUST0250,Salem,Bible Cover,Accessories,5,352.0,150
+ORD00390,2026-07-01,CUST0163,Tirunelveli,Reading Lamp,Accessories,1,700.0,390
+ORD00615,2026-07-01,CUST0227,Dindigul,Reading Lamp,Accessories,1,665.0,390
+ORD00007,2026-07-02,CUST0033,Chennai,Book Stand,Accessories,1,495.0,290
+ORD00639,2026-07-02,CUST0025,Chennai,Pocket Bible,Bibles,3,350.0,190
+ORD00434,2026-07-03,CUST0188,Salem,Reading Lamp,Accessories,2,700.0,390
+ORD00340,2026-07-04,CUST0015,Coimbatore,Highlighter Pack,Stationery,2,126.0,55
+ORD00224,2026-07-05,CUST0127,Coimbatore,Reading Lamp,Accessories,2,735.0,390
+ORD00296,2026-07-05,CUST0087,Tirunelveli,Devotional Book,Books,1,427.5,220
+ORD00485,2026-07-05,CUST0124,Trichy,Bible Cover,Accessories,1,304.0,150
+ORD00202,2026-07-06,CUST0187,Erode,Large Print Bible,Bibles,2,1320.0,720
+ORD00136,2026-07-07,CUST0243,Trichy,Devotional Book,Books,2,427.5,220
+ORD00579,2026-07-07,CUST0077,Dindigul,Pocket Bible,Bibles,2,350.0,190
+ORD00232,2026-07-08,CUST0002,Erode,Book Stand,Accessories,3,495.0,290
+ORD00455,2026-07-08,CUST0026,Madurai,Pocket Bible,Bibles,2,350.0,190
+ORD00317,2026-07-10,CUST0090,Tirunelveli,Bible Study Guide,Books,4,630.0,300
+ORD00640,2026-07-12,CUST0227,Dindigul,Bible Study Guide,Books,1,570.0,300
+ORD00301,2026-07-13,CUST0165,Coimbatore,Reading Lamp,Accessories,5,665.0,390
+ORD00096,2026-07-15,CUST0174,Tirunelveli,Devotional Book,Books,1,405.0,220
+ORD00383,2026-07-16,CUST0097,Erode,Bookmark Set,Stationery,1,81.0,35
+ORD00038,2026-07-18,CUST0233,Coimbatore,Reading Lamp,Accessories,2,735.0,390
+ORD00181,2026-07-18,CUST0022,Tirunelveli,Notebook Set,Stationery,1,180.0,85
+ORD00261,2026-07-18,CUST0185,Tirunelveli,Bible Study Guide,Books,2,630.0,300
+ORD00267,2026-07-19,CUST0242,Madurai,Reading Lamp,Accessories,1,630.0,390
+ORD00557,2026-07-20,CUST0194,Tirunelveli,Reading Lamp,Accessories,2,700.0,390
+ORD00160,2026-07-21,CUST0140,Salem,Devotional Book,Books,1,405.0,220
+ORD00385,2026-07-21,CUST0222,Madurai,Highlighter Pack,Stationery,2,120.0,55
+ORD00544,2026-07-21,CUST0177,Erode,Bookmark Set,Stationery,2,94.5,35
+ORD00106,2026-07-22,CUST0064,Salem,Large Print Bible,Bibles,2,1200.0,720
+ORD00131,2026-07-22,CUST0099,Erode,Book Stand,Accessories,1,550.0,290
+ORD00236,2026-07-22,CUST0113,Chennai,Prayer Journal,Books,1,308.0,130
+ORD00503,2026-07-22,CUST0022,Salem,Prayer Journal,Books,3,280.0,130
+ORD00525,2026-07-23,CUST0209,Coimbatore,Study Bible,Bibles,2,935.0,510
+ORD00451,2026-07-24,CUST0028,Trichy,Bookmark Set,Stationery,5,85.5,35
+ORD00311,2026-07-25,CUST0085,Tirunelveli,Book Stand,Accessories,1,522.5,290
+ORD00186,2026-07-26,CUST0151,Coimbatore,Bookmark Set,Stationery,1,85.5,35
+ORD00375,2026-07-26,CUST0074,Trichy,Pocket Bible,Bibles,1,350.0,190
+ORD00223,2026-07-27,CUST0246,Trichy,Study Bible,Bibles,3,935.0,510
+ORD00249,2026-07-27,CUST0087,Erode,Pocket Bible,Bibles,1,315.0,190
+ORD00610,2026-07-27,CUST0163,Tirunelveli,Bible Cover,Accessories,3,352.0,150
+ORD00368,2026-07-28,CUST0057,Salem,Bookmark Set,Stationery,5,81.0,35
+ORD00609,2026-07-29,CUST0145,Salem,Large Print Bible,Bibles,5,1200.0,720
+ORD00279,2026-07-30,CUST0071,Coimbatore,Prayer Journal,Books,3,280.0,130
+ORD00518,2026-07-30,CUST0254,Erode,Bible Cover,Accessories,1,336.0,150
+ORD00115,2026-08-01,CUST0032,Trichy,Reading Lamp,Accessories,2,630.0,390
+ORD00211,2026-08-02,CUST0036,Trichy,Pocket Bible,Bibles,1,332.5,190
+ORD00098,2026-08-03,CUST0022,Trichy,Pocket Bible,Bibles,3,350.0,190
+ORD00154,2026-08-03,CUST0084,Madurai,Bible Cover,Accessories,3,320.0,150
+ORD00643,2026-08-03,CUST0120,Dindigul,Notebook Set,Stationery,3,198.0,85
+ORD00399,2026-08-04,CUST0170,Erode,Pocket Bible,Bibles,1,332.5,190
+ORD00544,2026-08-04,CUST0244,Erode,Large Print Bible,Bibles,1,1080.0,720
+ORD00198,2026-08-05,CUST0090,Erode,Large Print Bible,Bibles,1,1200.0,720
+ORD00179,2026-08-07,CUST0193,Erode,Bookmark Set,Stationery,1,99.0,35
+ORD00312,2026-08-07,CUST0223,Dindigul,Bible Study Guide,Books,3,600.0,300
+ORD00428,2026-08-08,CUST0147,Erode,Pocket Bible,Bibles,2,385.0,190
+ORD00393,2026-08-09,CUST0120,Erode,Notebook Set,Stationery,5,171.0,85
+ORD00563,2026-08-09,CUST0252,Madurai,Notebook Set,Stationery,1,189.0,85
+ORD00242,2026-08-10,CUST0244,Salem,Reading Lamp,Accessories,2,735.0,390
+ORD00412,2026-08-11,CUST0116,Coimbatore,Devotional Book,Books,1,450.0,220
+ORD00506,2026-08-11,CUST0077,Coimbatore,Study Bible,Bibles,2,765.0,510
+ORD00004,2026-08-12,CUST0252,Tirunelveli,Notebook Set,Stationery,2,189.0,85
+ORD00060,2026-08-12,CUST0152,Erode,Large Print Bible,Bibles,4,1140.0,720
+ORD00130,2026-08-12,CUST0226,Salem,Prayer Journal,Books,1,280.0,130
+ORD00257,2026-08-12,CUST0227,Erode,Large Print Bible,Bibles,4,1320.0,720
+ORD00092,2026-08-13,CUST0058,Erode,Pocket Bible,Bibles,3,350.0,190
+ORD00213,2026-08-13,CUST0042,Dindigul,Bookmark Set,Stationery,4,99.0,35
+ORD00249,2026-08-13,CUST0167,Erode,Highlighter Pack,Stationery,3,126.0,55
+ORD00579,2026-08-14,CUST0115,Dindigul,Large Print Bible,Bibles,3,1320.0,720
+ORD00590,2026-08-14,CUST0090,Salem,Bookmark Set,Stationery,5,85.5,35
+ORD00645,2026-08-14,CUST0028,Madurai,Study Bible,Bibles,1,765.0,510
+ORD00231,2026-08-15,CUST0084,Tirunelveli,Bookmark Set,Stationery,1,94.5,35
+ORD00234,2026-08-15,CUST0027,Tirunelveli,Large Print Bible,Bibles,2,1320.0,720
+ORD00536,2026-08-15,CUST0061,Chennai,Prayer Journal,Books,2,252.0,130
+ORD00618,2026-08-15,CUST0153,Dindigul,Notebook Set,Stationery,1,162.0,85
+ORD00027,2026-08-16,CUST0160,Erode,Study Bible,Bibles,5,765.0,510
+ORD00622,2026-08-17,CUST0165,Tirunelveli,Pocket Bible,Bibles,1,367.5,190
+ORD00104,2026-08-18,CUST0167,Dindigul,Study Bible,Bibles,2,892.5,510
+ORD00341,2026-08-19,CUST0069,Chennai,Pocket Bible,Bibles,1,315.0,190
+ORD00103,2026-08-20,CUST0055,Coimbatore,Bible Cover,Accessories,1,352.0,150
+ORD00357,2026-08-20,CUST0178,Salem,Large Print Bible,Bibles,1,1320.0,720
+ORD00104,2026-08-24,CUST0173,Salem,Bookmark Set,Stationery,4,94.5,35
+ORD00206,2026-08-24,CUST0008,Coimbatore,Book Stand,Accessories,2,577.5,290
+ORD00022,2026-08-25,CUST0138,Chennai,Study Bible,Bibles,5,935.0,510
+ORD00307,2026-08-25,CUST0218,Salem,Prayer Journal,Books,2,280.0,130
+ORD00534,2026-08-25,CUST0231,Erode,Book Stand,Accessories,4,550.0,290
+ORD00594,2026-08-25,CUST0251,Madurai,Notebook Set,Stationery,1,180.0,85
+ORD00613,2026-08-25,CUST0045,Madurai,Reading Lamp,Accessories,4,665.0,390
+ORD00440,2026-08-26,CUST0157,Chennai,Book Stand,Accessories,4,550.0,290
+ORD00166,2026-08-28,CUST0211,Chennai,Reading Lamp,Accessories,2,665.0,390
+ORD00265,2026-08-30,CUST0124,Salem,Prayer Journal,Books,1,308.0,130
+ORD00594,2026-08-30,CUST0167,Erode,Study Bible,Bibles,4,892.5,510
+ORD00645,2026-08-30,CUST0229,Dindigul,Book Stand,Accessories,1,605.0,290
+ORD00336,2026-08-31,CUST0145,Trichy,Reading Lamp,Accessories,1,665.0,390
+ORD00345,2026-08-31,CUST0260,Tirunelveli,Reading Lamp,Accessories,3,700.0,390
+ORD00421,2026-09-01,CUST0164,Tirunelveli,Prayer Journal,Books,2,266.0,130
+ORD00482,2026-09-01,CUST0150,Chennai,Study Bible,Bibles,1,892.5,510
+ORD00407,2026-09-02,CUST0168,Chennai,Prayer Journal,Books,1,308.0,130
+ORD00003,2026-09-03,CUST0142,Madurai,Prayer Journal,Books,1,266.0,130
+ORD00185,2026-09-03,CUST0256,Coimbatore,Prayer Journal,Books,2,252.0,130
+ORD00568,2026-09-03,CUST0149,Chennai,Book Stand,Accessories,3,605.0,290
+ORD00290,2026-09-04,CUST0052,Trichy,Bookmark Set,Stationery,2,99.0,35
+ORD00613,2026-09-04,CUST0167,Erode,Study Bible,Bibles,1,765.0,510
+ORD00054,2026-09-05,CUST0172,Coimbatore,Highlighter Pack,Stationery,1,120.0,55
+ORD00329,2026-09-05,CUST0122,Salem,Bible Study Guide,Books,2,660.0,300
+ORD00172,2026-09-06,CUST0166,Dindigul,Bible Study Guide,Books,1,540.0,300
+ORD00221,2026-09-07,CUST0145,Trichy,Bible Cover,Accessories,2,304.0,150
+ORD00267,2026-09-07,CUST0077,Coimbatore,Prayer Journal,Books,1,294.0,130
+ORD00434,2026-09-07,CUST0047,Erode,Book Stand,Accessories,2,605.0,290
+ORD00615,2026-09-08,CUST0004,Trichy,Book Stand,Accessories,1,495.0,290
+ORD00092,2026-09-12,CUST0097,Tirunelveli,Book Stand,Accessories,1,577.5,290
+ORD00504,2026-09-13,CUST0052,Erode,Bible Cover,Accessories,1,304.0,150
+ORD00445,2026-09-14,CUST0081,Chennai,Pocket Bible,Bibles,4,332.5,190
+ORD00390,2026-09-15,CUST0161,Erode,Devotional Book,Books,1,405.0,220
+ORD00506,2026-09-15,CUST0122,Trichy,Book Stand,Accessories,2,495.0,290
+ORD00039,2026-09-16,CUST0197,Erode,Pocket Bible,Bibles,1,315.0,190
+ORD00176,2026-09-16,CUST0126,Madurai,Bookmark Set,Stationery,4,81.0,35
+ORD00075,2026-09-18,CUST0234,Erode,Study Bible,Bibles,1,892.5,510
+ORD00030,2026-09-19,CUST0067,Tirunelveli,Bible Cover,Accessories,2,320.0,150
+ORD00060,2026-09-19,CUST0056,Coimbatore,Reading Lamp,Accessories,1,665.0,390
+ORD00500,2026-09-19,CUST0119,Chennai,Book Stand,Accessories,2,605.0,290
+ORD00007,2026-09-21,CUST0022,Tirunelveli,Study Bible,Bibles,2,892.5,510
+ORD00170,2026-09-21,CUST0072,Tirunelveli,Book Stand,Accessories,2,522.5,290
+ORD00446,2026-09-22,CUST0141,Chennai,Book Stand,Accessories,2,550.0,290
+ORD00609,2026-09-22,CUST0260,Erode,Notebook Set,Stationery,2,162.0,85
+ORD00425,2026-09-23,CUST0212,Chennai,Reading Lamp,Accessories,3,665.0,390
+ORD00537,2026-09-23,CUST0127,Trichy,Reading Lamp,Accessories,2,770.0,390
+ORD00576,2026-09-23,CUST0115,Erode,Pocket Bible,Bibles,3,315.0,190
+ORD00583,2026-09-23,CUST0155,Erode,Reading Lamp,Accessories,3,665.0,390
+ORD00502,2026-09-24,CUST0167,Tirunelveli,Prayer Journal,Books,1,294.0,130
+ORD00347,2026-09-26,CUST0031,Chennai,Study Bible,Bibles,1,765.0,510
+ORD00365,2026-09-26,CUST0080,Coimbatore,Notebook Set,Stationery,1,171.0,85
+ORD00624,2026-09-26,CUST0206,Chennai,Study Bible,Bibles,1,807.5,510
+ORD00055,2026-09-27,CUST0184,Chennai,Notebook Set,Stationery,1,189.0,85
+ORD00247,2026-09-27,CUST0255,Madurai,Prayer Journal,Books,1,294.0,130
+ORD00159,2026-09-28,CUST0122,Madurai,Bookmark Set,Stationery,4,94.5,35
+ORD00250,2026-09-28,CUST0082,Tirunelveli,Book Stand,Accessories,2,522.5,290
+ORD00157,2026-09-29,CUST0123,Madurai,Study Bible,Bibles,1,765.0,510
+ORD00213,2026-09-29,CUST0145,Coimbatore,Highlighter Pack,Stationery,3,114.0,55
+ORD00249,2026-09-30,CUST0238,Dindigul,Notebook Set,Stationery,1,180.0,85
+ORD00260,2026-09-30,CUST0007,Tirunelveli,Study Bible,Bibles,5,765.0,510
+ORD00150,2026-10-01,CUST0226,Chennai,Devotional Book,Books,2,472.5,220
+ORD00524,2026-10-01,CUST0136,Madurai,Bible Study Guide,Books,3,570.0,300
+ORD00602,2026-10-01,CUST0215,Coimbatore,Bookmark Set,Stationery,2,81.0,35
+ORD00233,2026-10-03,CUST0214,Trichy,Large Print Bible,Bibles,1,1320.0,720
+ORD00214,2026-10-04,CUST0142,Chennai,Bookmark Set,Stationery,2,94.5,35
+ORD00079,2026-10-05,CUST0255,Tirunelveli,Bookmark Set,Stationery,1,99.0,35
+ORD00249,2026-10-05,CUST0053,Salem,Reading Lamp,Accessories,1,770.0,390
+ORD00425,2026-10-05,CUST0193,Tirunelveli,Book Stand,Accessories,1,550.0,290
+ORD00100,2026-10-06,CUST0021,Salem,Bible Study Guide,Books,1,570.0,300
+ORD00156,2026-10-06,CUST0211,Tirunelveli,Devotional Book,Books,1,427.5,220
+ORD00311,2026-10-09,CUST0141,Chennai,Devotional Book,Books,1,472.5,220
+ORD00368,2026-10-10,CUST0139,Trichy,Book Stand,Accessories,1,522.5,290
+ORD00528,2026-10-10,CUST0124,Madurai,Pocket Bible,Bibles,2,315.0,190
+ORD00628,2026-10-10,CUST0193,Madurai,Bible Study Guide,Books,1,540.0,300
+ORD00553,2026-10-11,CUST0160,Chennai,Devotional Book,Books,2,405.0,220
+ORD00404,2026-10-15,CUST0039,Chennai,Large Print Bible,Bibles,1,1140.0,720
+ORD00503,2026-10-16,CUST0053,Chennai,Study Bible,Bibles,2,807.5,510
+ORD00465,2026-10-17,CUST0142,Erode,Highlighter Pack,Stationery,2,108.0,55
+ORD00499,2026-10-17,CUST0163,Madurai,Notebook Set,Stationery,5,189.0,85
+ORD00278,2026-10-18,CUST0231,Erode,Reading Lamp,Accessories,1,665.0,390
+ORD00333,2026-10-18,CUST0142,Salem,Pocket Bible,Bibles,1,350.0,190
+ORD00346,2026-10-18,CUST0216,Erode,Reading Lamp,Accessories,4,665.0,390
+ORD00550,2026-10-18,CUST0079,Salem,Book Stand,Accessories,2,495.0,290
+ORD00602,2026-10-18,CUST0094,Madurai,Notebook Set,Stationery,3,198.0,85
+ORD00147,2026-10-19,CUST0036,Chennai,Devotional Book,Books,3,427.5,220
+ORD00189,2026-10-19,CUST0228,Madurai,Reading Lamp,Accessories,1,630.0,390
+ORD00076,2026-10-20,CUST0231,Tirunelveli,Reading Lamp,Accessories,1,700.0,390
+ORD00503,2026-10-20,CUST0236,Madurai,Highlighter Pack,Stationery,3,126.0,55
+ORD00282,2026-10-21,CUST0217,Erode,Devotional Book,Books,2,450.0,220
+ORD00288,2026-10-21,CUST0109,Madurai,Bible Cover,Accessories,1,352.0,150
+ORD00391,2026-10-21,CUST0164,Erode,Reading Lamp,Accessories,2,700.0,390
+ORD00640,2026-10-21,CUST0166,Dindigul,Reading Lamp,Accessories,4,770.0,390
+ORD00237,2026-10-22,CUST0234,Salem,Large Print Bible,Bibles,3,1200.0,720
+ORD00178,2026-10-23,CUST0086,Tirunelveli,Bible Cover,Accessories,2,352.0,150
+ORD00308,2026-10-23,CUST0235,Dindigul,Notebook Set,Stationery,1,171.0,85
+ORD00376,2026-10-23,CUST0186,Erode,Bible Cover,Accessories,1,304.0,150
+ORD00622,2026-10-24,CUST0042,Salem,Highlighter Pack,Stationery,2,114.0,55
+ORD00074,2026-10-25,CUST0079,Chennai,Study Bible,Bibles,2,892.5,510
+ORD00303,2026-10-25,CUST0256,Erode,Large Print Bible,Bibles,2,1140.0,720
+ORD00373,2026-10-25,CUST0172,Madurai,Reading Lamp,Accessories,3,665.0,390
+ORD00158,2026-10-26,CUST0256,Salem,Prayer Journal,Books,2,252.0,130
+ORD00419,2026-10-27,CUST0060,Madurai,Large Print Bible,Bibles,3,1200.0,720
+ORD00442,2026-10-27,CUST0216,Dindigul,Bible Study Guide,Books,2,540.0,300
+ORD00490,2026-10-27,CUST0108,Trichy,Devotional Book,Books,1,405.0,220
+ORD00248,2026-10-28,CUST0224,Trichy,Study Bible,Bibles,2,807.5,510
+ORD00286,2026-10-28,CUST0128,Coimbatore,Bible Study Guide,Books,1,600.0,300
+ORD00277,2026-10-29,CUST0248,Tirunelveli,Devotional Book,Books,1,495.0,220
+ORD00001,2026-10-31,CUST0020,Erode,Bible Cover,Accessories,4,304.0,150
+ORD00019,2026-11-01,CUST0053,Erode,Book Stand,Accessories,1,577.5,290
